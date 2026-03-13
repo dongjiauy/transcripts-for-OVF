@@ -1,0 +1,71 @@
+Okay, we're five minutes over. Let's start. 大家都到了吗？
+
+Sorry, Dr. Thorne, I was just grabbing a coffee. The espresso machine on the 4th floor is broken again. 你们这大楼的 facility management 真的该换一家vendor了。
+
+Haha, tell me about it. We're trying to simulate quantum supremacy, but we can't get a decent caffeine fix. Anyway, thanks for coming in on short notice, Minister. And General Wolf, appreciate you joining via secure link.
+
+Audio check, Dr. Thorne. Can you hear me clearly?
+
+Loud and clear, General. So, let's dive right in. The agenda is tight. Project Chimera. We've reviewed the draft term sheet sent over by the Commission. To be frank, the "golden share" provision is a non-starter.
+
+Please, Aris. "Non-starter" is strong language. You know the geopolitical landscape. Strategic autonomy isn't just a Brussels talking point anymore; it's existential. 如果 AQS 被非欧盟实体收购，或者核心 IP 流向某些 adversary states，那我们之前的 grant funding 就全白费了。
+
+I understand the sentiment, Elena. But look at the Cap Table. We have Series B investors from Singapore and a strategic LP from Silicon Valley. If I sign a deal giving the Commission veto power over M&A, I am breaching my fiduciary duty to them. They invested in a commercial entity, not a defense contractor. 这里的 conflict of interest 太明显了。
+
+Hold on. Let's not conflate "commercial entity" with "free agent." Your Q-Lattice architecture has dual-use implications that frankly scare my analysts. If that encryption-breaking capability matures before our post-quantum cryptography standards are ready... well, let's just say market dynamics become secondary to national security.
+
+General, with respect, we are years away from running Shor's algorithm at scale. The current 128-qubit processor is noisy. It's a scientific instrument, not a weapon. But if you lock us down now with export controls strict enough for weapons-grade plutonium, you kill our revenue stream. We need to sell to banks in Brazil and cloud providers in Asia to fund the R&D. Without that burn rate coverage, we don't get to the 1000-qubit milestone you want.
+
+So, your argument is: "Let us sell the early tech globally so we can afford to build the dangerous tech for you later"?
+
+That's a cynical way to put it, but yes. Economics 101. High-tech hardware implies massive CAPEX. We can't survive on EU grants alone. Unless... unless the Commission is willing to underwrite the entire Series D?
+
+We have limits, Aris. State aid rules still apply. But maybe there's a middle ground. What if we structure the golden share to trigger only upon "Change of Control involving a Sensitive Jurisdiction"? We can define "Sensitive" using the new EU FDI screening regulation list. 这样既能安抚 General Wolf 的安全顾虑，又不至于 scare off 你的 commercial investors。
+
+Define "Change of Control." Does a minority stake by a sovereign wealth fund count? Because we're talking to one right now.
+
+It depends on the voting rights attached. General, would NATO accept a "consultative status" on the board for specific export licenses, rather than a full veto?
+
+I'd need to see the draft language. But "consultative" usually means "we advise, you ignore." I want teeth. If Dr. Lin's team pushes an update that enables faster prime factorization, I want that code air-gapped. Immediately. No discussion.
+
+Dr. Lin is a Swiss citizen, General. Let's leave personnel out of this for a moment. But on the "teeth" part... what if we agree to a "National Security Committee" on the board? Three seats: one for me, one for the lead investor, one for a government appointee. Unanimous vote required for any IP transfer outside the OECD.
+
+That's... constructive. But the OECD list is too broad. Turkey is in the OECD.
+
+Fine. The "NATO+3" list then.
+
+Wait, Aris. Before we agree to narrow the market that much, have you run this by your General Counsel? The anti-trust implications of essentially carving up the market by treaty...
+
+My GC is hyperventilating in the hallway, Elena. But look, the alternative is worse. If we don't take the Chimera funding, we miss the window for the new fab in Zurich. We'll be stuck simulating qubits on classical clusters while IonQ and Google eat our lunch. I need the cash. I'm willing to trade some sovereignty for velocity.
+
+Velocity is good. But direction matters. By the way, speaking of velocity, I saw the short-seller report on Aether BioTherapeutics this morning. Didn't your wife consult for them?
+
+Ex-wife. And yes, she did. That report is brutal. Accusing their AI of "hallucinating" molecules? It's the same problem we face, actually. The "Black Box" problem. How do you prove to a regulator that a probabilistic model is safe?
+
+Exactly. Whether it's a drug candidate or a quantum state, if you can't explain the "why," the regulators will default to "no." That's why I'm pushing for the algorithmic transparency clause in the new AI Act. You guys should pay attention to that too.
+
+We are. But quantum is different. We don't have "training data" in the same way. It's physics. The wave function doesn't have bias; it just has probability amplitudes.
+
+Until you measure it. Then it collapses. Just like this deal.
+
+Hah. Good one. Okay, look. Let's try to wrap this up. I propose we redline the term sheet with the "National Security Committee" structure. Elena, can you get your team to draft a definition for "Sensitive Transaction" that doesn't alienate our Silicon Valley LPs? They're nervous enough about the Digital Markets Act as it is.
+
+I can try. But no promises on the definition of "Sensitive." The Council is very hawkish right now. Especially after the pipeline hack last month. Everyone sees boogeymen in the server room.
+
+Understood. General, if we give you the air-gap assurance for the logical qubit control layer—not the hardware, just the control stack—will you sign off?
+
+I'll review the technical specs. If the isolation is physical, maybe. If it's software-defined... I'm skeptical. But send it over.
+
+Great. I'll have my CTO, Sarge—I mean, Sarah—send the architecture diagram. She's tough, by the way. Don't expect her to gloss over the latency issues.
+
+Sarah O'Connell? I thought she was in aerospace now.
+
+She is. I was referring to Sarah Liu, my VP of Engineering. Too many Sarahs in deep tech.
+
+Alright. I have to run to a budget hearing. MP Stone is going to grill me on why we're subsidizing "science fiction" while the trains are running late.
+
+Good luck with that. Tell him if the trains ran on quantum optimization algorithms, they'd never be late. Or they'd be late and early at the same time.
+
+Very funny, Aris. I'll send the revised draft by EOD. 记得 check your secure mail.
+
+Will do. Thanks, everyone. Meeting adjourned.

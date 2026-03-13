@@ -1,0 +1,41 @@
+Generate a realistic, simulated dialogue transcript that meets all the following criteria:
+
+1. **Domain Integration**:  
+   The conversation must organically integrate **multiple high-knowledge domains**—specifically drawing from at least **three** of the following: finance, technology, healthcare, public administration (government policy/regulation), and legal services. The interplay between fields should feel necessary and authentic (e.g., a healthtech startup negotiating with a hospital while navigating data law and VC term sheets—not just name-dropping).
+
+2. **Scenario Authenticity**:  
+   Set the dialogue in a real-world professional context such as:
+   - An internal cross-functional meeting (e.g., product, legal, and clinical teams aligning on a digital therapeutics launch)
+   - A multi-party negotiation (e.g., startup + investor + government grant officer)
+   - A regulatory compliance review involving technical and legal stakeholders
+   - A joint venture discussion between a tech firm and a public-sector entity
+
+3. **Language Style – Natural Code-Switching**:  
+   The primary spoken language should be **Chinese**, seamlessly interwoven with **English terms** where native bilingual professionals would naturally use them—especially for technical, financial, or legal concepts that lack concise Chinese equivalents (e.g., “我们得 re-architect 这个 consent flow to meet PIPL 和 HIPAA 的 dual requirements,” “这个 clause 的 liability cap 太 low 了”). Avoid forced or unnatural insertions.
+
+4. **Content Depth & Terminology Layers**:  
+   - Include **basic**, **intermediate**, and **advanced** terminology from each represented domain. Examples:
+     - *Finance*: burn rate → SAFE note → liquidation preference waterfall  
+     - *Tech*: API → edge inference → homomorphic encryption  
+     - *Healthcare*: EHR integration → FDA SaMD classification → real-world evidence (RWE) trials  
+     - *Legal/Compliance*: data localization → SCCs (Standard Contractual Clauses) → extraterritorial jurisdiction  
+     - *Government/Policy*: sandbox regulation → public procurement thresholds → national data sovereignty frameworks  
+   - Embed **cross-domain conceptual links** (e.g., how a change in China’s Cybersecurity Law impacts a Series B valuation, or why GDPR’s “right to explanation” affects AI model design in clinical decision support).
+   - **Universal Unknowns**: Introduce at least one concept or term that is likely OUTSIDE the expertise of ALL participants. This could be an emerging technology, a new geopolitical regulation, or a cross-domain phenomenon that forces all parties to grapple with a new definition. (e.g., A new UN treaty on 'Kessler Bonds' for space debris that neither the engineer nor the lawyer has fully analyzed yet).
+   - Feature at least one **provocative, nuanced question** that reveals tension between domains (e.g., “If your algorithm is a medical device under NMPA rules, who owns the IP—the hospital that provided the data or your company?”).
+
+5. **Natural Conversation Flow**:  
+   - Weave in **realistic small talk and human moments**, such as:
+     - Casual remarks about commute, weather, or recent industry events (“MWC 上那个 quantum-safe blockchain demo 看了吗？”)
+     - Light personal questions (“你上次体检的 lipid panel 正常了吗？别又熬夜改 pitch deck”)
+     - Mild humor or team-specific banter (“又在用 Notion 写 PRD？不怕被 CTO 没收权限吗？”)
+     - Mundane logistical comments (“投影仪连不上，谁带 HDMI 转接头了？” “会议纪要能 CC 给法务吗？他们总说没收到”)
+   - These elements should arise organically—at openings, during tech hiccups, or as emotional relief after intense exchanges—and never disrupt the professional core.
+
+6. **Format Requirements**:  
+   - Output as plain text only (no markdown, no speaker labels like “[Name, Title]”).
+   - Use paragraph breaks to imply speaker turns; maintain natural rhythm with interruptions, hesitations (“嗯…其实吧”), self-corrections, and overlapping intent.
+   - Length: strictly **1,000–2,000 English words**.
+   - Prioritize **technical plausibility**, **linguistic authenticity**, and **interpersonal realism** over narrative drama.
+
+Do not use real names of living individuals unless referencing generic public roles (e.g., “a senior official from SAMR”). The goal is a transcript that could plausibly be transcribed from an actual high-stakes, multilingual, multidisciplinary professional conversation.

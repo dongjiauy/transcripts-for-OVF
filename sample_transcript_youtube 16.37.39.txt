@@ -1,0 +1,2506 @@
+ 
+Today<00:00:00.480><c> I'm</c><00:00:00.719><c> sitting</c><00:00:00.880><c> down</c><00:00:01.040><c> with</c><00:00:01.199><c> Peter</c>
+Today I'm sitting down with Peter
+ 
+Today I'm sitting down with Peter
+Steinberger,<00:00:02.320><c> the</c><00:00:02.560><c> creator</c><00:00:02.800><c> of</c><00:00:03.040><c> OpenClaw,</c>
+Steinberger, the creator of OpenClaw,
+ 
+Steinberger, the creator of OpenClaw,
+the<00:00:04.160><c> open-</c><00:00:04.400><c> source</c><00:00:04.799><c> personal</c><00:00:05.120><c> AI</c><00:00:05.520><c> agent</c><00:00:05.920><c> that</c>
+the open- source personal AI agent that
+ 
+the open- source personal AI agent that
+has<00:00:06.400><c> completely</c><00:00:06.879><c> taken</c><00:00:07.120><c> over</c><00:00:07.279><c> the</c><00:00:07.520><c> internet.</c>
+has completely taken over the internet.
+ 
+has completely taken over the internet.
+The<00:00:09.040><c> GitHub</c><00:00:09.440><c> repo</c><00:00:09.840><c> exploded</c><00:00:10.320><c> to</c><00:00:10.559><c> over</c><00:00:10.960><c> 160,000</c>
+The GitHub repo exploded to over 160,000
+ 
+The GitHub repo exploded to over 160,000
+stars<00:00:12.559><c> practically</c><00:00:13.120><c> overnight.</c><00:00:13.755><c> [music]</c><00:00:14.080><c> The</c>
+stars practically overnight. [music] The
+ 
+stars practically overnight. [music] The
+community<00:00:14.639><c> has</c><00:00:14.799><c> built</c><00:00:15.120><c> countless</c><00:00:15.599><c> projects</c>
+community has built countless projects
+ 
+community has built countless projects
+like<00:00:16.320><c> Maltbook</c><00:00:17.119><c> where</c><00:00:17.440><c> bots</c><00:00:17.920><c> talk</c><00:00:18.080><c> among</c>
+like Maltbook where bots talk among
+ 
+like Maltbook where bots talk among
+themselves.<00:00:19.520><c> And</c><00:00:19.760><c> now</c><00:00:20.160><c> the</c><00:00:20.320><c> bots</c><00:00:20.640><c> are</c><00:00:20.880><c> even</c>
+themselves. And now the bots are even
+ 
+themselves. And now the bots are even
+renting<00:00:21.520><c> humans</c><00:00:21.920><c> to</c><00:00:22.160><c> do</c><00:00:22.320><c> tasks</c><00:00:22.640><c> in</c><00:00:22.880><c> the</c><00:00:23.039><c> real</c>
+renting humans to do tasks in the real
+ 
+renting humans to do tasks in the real
+world.<00:00:24.080><c> In</c><00:00:24.320><c> our</c><00:00:24.560><c> conversation,</c><00:00:25.279><c> we</c><00:00:25.519><c> discuss</c>
+world. In our conversation, we discuss
+ 
+world. In our conversation, we discuss
+his<00:00:26.240><c> aha</c><00:00:26.720><c> moment,</c><00:00:27.279><c> his</c><00:00:27.599><c> contrarian</c>
+his aha moment, his contrarian
+ 
+his aha moment, his contrarian
+development<00:00:28.640><c> philosophies,</c><00:00:29.519><c> and</c><00:00:30.000><c> what</c><00:00:30.240><c> this</c>
+development philosophies, and what this
+ 
+development philosophies, and what this
+means<00:00:30.640><c> for</c><00:00:30.880><c> builders</c><00:00:31.279><c> in</c><00:00:31.599><c> 2026.</c><00:00:32.719><c> Let's</c><00:00:32.960><c> dive</c>
+means for builders in 2026. Let's dive
+ 
+means for builders in 2026. Let's dive
+in.<00:00:34.060><c> [music]</c>
+ 
+ 
+ 
+&gt;&gt; So,<00:00:39.120><c> good</c><00:00:39.280><c> to</c><00:00:39.360><c> see</c><00:00:39.440><c> you,</c><00:00:39.680><c> man.</c>
+&gt;&gt; So, good to see you, man.
+ 
+&gt;&gt; So, good to see you, man.
+&gt;&gt; Hey,<00:00:40.160><c> what's</c><00:00:40.320><c> up?</c>
+&gt;&gt; Hey, what's up?
+ 
+&gt;&gt; Hey, what's up?
+&gt;&gt; Um,<00:00:41.440><c> so</c><00:00:41.920><c> you've</c><00:00:42.320><c> made</c><00:00:42.559><c> something</c><00:00:42.879><c> people</c>
+&gt;&gt; Um, so you've made something people
+ 
+&gt;&gt; Um, so you've made something people
+want,
+want,
+ 
+want,
+&gt;&gt; it<00:00:44.640><c> seems.</c><00:00:44.879><c> So,</c>
+&gt;&gt; it seems. So,
+ 
+&gt;&gt; it seems. So,
+&gt;&gt; yeah.<00:00:45.840><c> Uh,</c><00:00:46.160><c> Open</c><00:00:46.480><c> Claw,</c><00:00:46.719><c> as</c><00:00:46.879><c> it's</c><00:00:47.039><c> called</c><00:00:47.280><c> now,</c>
+&gt;&gt; yeah. Uh, Open Claw, as it's called now,
+ 
+&gt;&gt; yeah. Uh, Open Claw, as it's called now,
+has<00:00:48.079><c> absolutely</c>
+has absolutely
+ 
+has absolutely
+&gt;&gt; name<00:00:48.719><c> number</c><00:00:48.879><c> five.</c><00:00:49.280><c> Yeah.</c><00:00:49.780><c> [laughter]</c>
+&gt;&gt; name number five. Yeah. [laughter]
+ 
+&gt;&gt; name number five. Yeah. [laughter]
+&gt;&gt; Has<00:00:50.800><c> been</c><00:00:50.960><c> absolutely</c><00:00:51.440><c> exploding</c><00:00:52.160><c> the</c>
+&gt;&gt; Has been absolutely exploding the
+ 
+&gt;&gt; Has been absolutely exploding the
+internet.<00:00:53.039><c> Um,</c><00:00:53.760><c> how</c><00:00:53.920><c> have</c><00:00:54.160><c> the</c><00:00:54.399><c> past</c><00:00:54.960><c> one</c><00:00:55.199><c> or</c>
+internet. Um, how have the past one or
+ 
+internet. Um, how have the past one or
+two<00:00:55.600><c> weeks</c><00:00:55.920><c> been</c><00:00:56.079><c> for</c><00:00:56.239><c> you,</c><00:00:56.480><c> man?</c>
+two weeks been for you, man?
+ 
+two weeks been for you, man?
+&gt;&gt; Oh<00:00:57.680><c> my</c><00:00:57.920><c> god.</c><00:00:58.480><c> I</c><00:00:58.719><c> need</c><00:00:58.879><c> like</c><00:00:59.359><c> I</c><00:00:59.680><c> need</c><00:00:59.760><c> a</c><00:01:00.000><c> cave.</c>
+&gt;&gt; Oh my god. I need like I need a cave.
+ 
+&gt;&gt; Oh my god. I need like I need a cave.
+[laughter]
+[laughter]
+ 
+[laughter]
+A<00:01:01.840><c> week</c><00:01:02.000><c> of</c><00:01:02.160><c> solitude.</c>
+A week of solitude.
+ 
+A week of solitude.
+&gt;&gt; You<00:01:03.359><c> You</c><00:01:03.680><c> came</c><00:01:03.840><c> out</c><00:01:04.000><c> of</c><00:01:04.159><c> the</c><00:01:04.320><c> cave</c><00:01:04.559><c> and</c><00:01:04.720><c> you</c>
+&gt;&gt; You You came out of the cave and you
+ 
+&gt;&gt; You You came out of the cave and you
+want<00:01:04.960><c> to</c><00:01:05.040><c> go</c><00:01:05.199><c> back</c><00:01:05.360><c> to</c><00:01:05.439><c> the</c><00:01:05.600><c> cave</c><00:01:05.920><c> like</c><00:01:06.159><c> a</c><00:01:06.320><c> like</c>
+want to go back to the cave like a like
+ 
+want to go back to the cave like a like
+little<00:01:06.720><c> lobster.</c>
+little lobster.
+ 
+little lobster.
+&gt;&gt; It's<00:01:07.600><c> been</c><00:01:07.760><c> absolutely</c><00:01:08.159><c> wild.</c><00:01:08.560><c> I</c><00:01:08.720><c> don't</c><00:01:08.799><c> know</c>
+&gt;&gt; It's been absolutely wild. I don't know
+ 
+&gt;&gt; It's been absolutely wild. I don't know
+how<00:01:09.119><c> one</c><00:01:09.280><c> human</c><00:01:10.479><c> can</c><00:01:10.720><c> absorb</c><00:01:11.119><c> all</c><00:01:11.280><c> of</c><00:01:11.360><c> that.</c><00:01:11.520><c> I</c>
+how one human can absorb all of that. I
+ 
+how one human can absorb all of that. I
+probably<00:01:11.840><c> need</c><00:01:12.000><c> another</c><00:01:12.240><c> week</c><00:01:12.400><c> just</c><00:01:12.560><c> to</c><00:01:12.720><c> like</c>
+probably need another week just to like
+ 
+probably need another week just to like
+respond<00:01:13.360><c> to</c><00:01:13.520><c> all</c><00:01:13.680><c> my</c><00:01:13.840><c> emails.</c><00:01:14.880><c> Uh,</c><00:01:15.360><c> I</c><00:01:15.600><c> got</c><00:01:15.760><c> some</c>
+respond to all my emails. Uh, I got some
+ 
+respond to all my emails. Uh, I got some
+incredibly<00:01:16.400><c> cool</c><00:01:16.720><c> stuff.</c><00:01:17.040><c> I</c><00:01:17.280><c> got</c><00:01:17.439><c> some</c>
+incredibly cool stuff. I got some
+ 
+incredibly cool stuff. I got some
+incredibly
+incredibly
+ 
+incredibly
+bad<00:01:19.600><c> stuff.</c>
+bad stuff.
+ 
+bad stuff.
+&gt;&gt; [snorts]
+&gt;&gt; [snorts]
+ 
+&gt;&gt; [snorts]
+&gt;&gt; Um,<00:01:21.200><c> but</c><00:01:21.600><c> clearly</c><00:01:22.080><c> I</c><00:01:22.400><c> hit</c><00:01:22.720><c> something</c><00:01:23.040><c> that</c>
+&gt;&gt; Um, but clearly I hit something that
+ 
+&gt;&gt; Um, but clearly I hit something that
+sprew<00:01:24.880><c> up</c><00:01:25.040><c> emotions</c><00:01:25.520><c> and</c><00:01:25.759><c> made</c><00:01:26.000><c> people</c>
+sprew up emotions and made people
+ 
+sprew up emotions and made people
+interested<00:01:26.640><c> and</c><00:01:27.040><c> inspired</c><00:01:27.520><c> people</c><00:01:27.759><c> and</c><00:01:28.000><c> it's</c>
+interested and inspired people and it's
+ 
+interested and inspired people and it's
+really<00:01:28.479><c> cool.</c>
+really cool.
+ 
+really cool.
+&gt;&gt; And<00:01:28.960><c> a</c><00:01:29.119><c> lot</c><00:01:29.200><c> of</c><00:01:29.280><c> people</c><00:01:29.439><c> have</c><00:01:29.680><c> been</c><00:01:29.840><c> working</c>
+&gt;&gt; And a lot of people have been working
+ 
+&gt;&gt; And a lot of people have been working
+on,<00:01:30.479><c> you</c><00:01:30.640><c> know,</c><00:01:30.960><c> AI</c><00:01:31.520><c> and</c><00:01:31.759><c> even</c><00:01:32.079><c> personal</c>
+on, you know, AI and even personal
+ 
+on, you know, AI and even personal
+assistance.<00:01:33.040><c> Like</c><00:01:33.280><c> what</c><00:01:33.520><c> what</c><00:01:33.759><c> is</c><00:01:33.840><c> it</c><00:01:34.000><c> that</c>
+assistance. Like what what is it that
+ 
+assistance. Like what what is it that
+made<00:01:35.200><c> Open</c><00:01:35.600><c> Claw</c><00:01:35.920><c> take</c><00:01:36.159><c> off?</c>
+made Open Claw take off?
+ 
+made Open Claw take off?
+&gt;&gt; I<00:01:37.200><c> think</c><00:01:37.280><c> my</c><00:01:37.520><c> big</c><00:01:37.680><c> difference</c><00:01:37.920><c> is</c><00:01:38.159><c> that</c><00:01:38.640><c> it</c>
+&gt;&gt; I think my big difference is that it
+ 
+&gt;&gt; I think my big difference is that it
+actually<00:01:39.119><c> runs</c><00:01:39.439><c> on</c><00:01:39.759><c> your</c><00:01:40.079><c> computer.</c><00:01:40.880><c> Like</c>
+actually runs on your computer. Like
+ 
+actually runs on your computer. Like
+every<00:01:41.439><c> everything</c><00:01:41.680><c> I</c><00:01:41.840><c> saw</c><00:01:42.079><c> so</c><00:01:42.240><c> far</c><00:01:42.400><c> runs</c><00:01:42.560><c> in</c>
+every everything I saw so far runs in
+ 
+every everything I saw so far runs in
+the<00:01:42.880><c> cloud.</c><00:01:43.280><c> It's</c><00:01:43.439><c> like</c><00:01:44.640><c> it</c><00:01:44.880><c> can</c><00:01:45.040><c> do</c><00:01:45.200><c> a</c><00:01:45.439><c> few</c>
+the cloud. It's like it can do a few
+ 
+the cloud. It's like it can do a few
+things<00:01:46.799><c> if</c><00:01:47.040><c> you</c><00:01:47.200><c> run</c><00:01:47.439><c> on</c><00:01:47.520><c> your</c><00:01:47.680><c> computer.</c><00:01:48.079><c> It</c>
+things if you run on your computer. It
+ 
+things if you run on your computer. It
+can<00:01:48.479><c> do</c><00:01:48.880><c> every</c><00:01:49.520><c> effing</c><00:01:50.240><c> thing,</c><00:01:51.119><c> right?</c><00:01:51.600><c> So</c>
+can do every effing thing, right? So
+ 
+can do every effing thing, right? So
+that's<00:01:52.399><c> way</c><00:01:52.560><c> more</c><00:01:52.799><c> powerful.</c>
+that's way more powerful.
+ 
+that's way more powerful.
+&gt;&gt; Yeah.<00:01:54.000><c> Machine</c><00:01:54.320><c> can</c><00:01:54.560><c> do</c><00:01:54.799><c> anything</c><00:01:55.119><c> that</c><00:01:55.360><c> you</c>
+&gt;&gt; Yeah. Machine can do anything that you
+ 
+&gt;&gt; Yeah. Machine can do anything that you
+can<00:01:55.680><c> do</c><00:01:55.840><c> with</c><00:01:56.000><c> the</c><00:01:56.240><c> machine.</c>
+can do with the machine.
+ 
+can do with the machine.
+&gt;&gt; You<00:01:56.960><c> can</c><00:01:57.119><c> just</c><00:01:57.280><c> connect</c><00:01:57.520><c> to</c><00:01:57.680><c> your</c><00:01:57.920><c> oven</c><00:01:58.880><c> or</c>
+&gt;&gt; You can just connect to your oven or
+ 
+&gt;&gt; You can just connect to your oven or
+your<00:01:59.360><c> Tesla</c><00:02:00.479><c> or</c><00:02:01.439><c> your</c><00:02:01.759><c> lights,</c><00:02:02.159><c> your</c><00:02:02.399><c> Sonos.</c>
+your Tesla or your lights, your Sonos.
+ 
+your Tesla or your lights, your Sonos.
+My<00:02:03.360><c> bad.</c><00:02:03.759><c> It</c><00:02:03.920><c> can</c><00:02:04.079><c> control</c><00:02:04.320><c> the</c><00:02:04.479><c> temperature</c>
+My bad. It can control the temperature
+ 
+My bad. It can control the temperature
+of<00:02:04.960><c> my</c><00:02:05.200><c> bed.</c><00:02:06.479><c> JPD</c><00:02:07.119><c> can't</c><00:02:07.360><c> do</c><00:02:07.439><c> that.</c>
+of my bed. JPD can't do that.
+ 
+of my bed. JPD can't do that.
+&gt;&gt; You<00:02:08.080><c> gave</c><00:02:08.160><c> it</c><00:02:08.399><c> all</c><00:02:08.479><c> the</c><00:02:08.640><c> skills</c><00:02:08.959><c> that</c><00:02:09.360><c> you</c><00:02:09.599><c> have</c>
+&gt;&gt; You gave it all the skills that you have
+ 
+&gt;&gt; You gave it all the skills that you have
+yourself.<00:02:10.160><c> A</c><00:02:10.399><c> friend</c><00:02:10.640><c> told</c><00:02:10.800><c> me</c><00:02:11.039><c> like</c><00:02:11.440><c> he</c>
+yourself. A friend told me like he
+ 
+yourself. A friend told me like he
+installed<00:02:12.080><c> Open</c><00:02:12.400><c> Claw</c><00:02:13.680><c> and</c>
+installed Open Claw and
+ 
+installed Open Claw and
+it<00:02:16.400><c> and</c><00:02:16.640><c> then</c><00:02:16.720><c> it</c><00:02:16.879><c> asked</c><00:02:17.040><c> it</c><00:02:17.200><c> like</c><00:02:17.440><c> look</c>
+it and then it asked it like look
+ 
+it and then it asked it like look
+through<00:02:17.840><c> my</c><00:02:18.080><c> computer</c><00:02:18.400><c> and</c><00:02:18.640><c> make</c><00:02:18.800><c> a</c><00:02:19.040><c> narrative</c>
+through my computer and make a narrative
+ 
+through my computer and make a narrative
+over<00:02:19.599><c> my</c><00:02:19.760><c> last</c><00:02:20.000><c> year</c><00:02:21.040><c> and</c><00:02:21.280><c> it</c><00:02:21.440><c> made</c><00:02:21.680><c> this</c>
+over my last year and it made this
+ 
+over my last year and it made this
+incredibly<00:02:22.879><c> good</c><00:02:23.120><c> narrative</c><00:02:23.440><c> and</c><00:02:23.680><c> he</c><00:02:23.840><c> was</c>
+incredibly good narrative and he was
+ 
+incredibly good narrative and he was
+like<00:02:24.160><c> how</c><00:02:24.319><c> did</c><00:02:24.400><c> you</c><00:02:24.560><c> do</c><00:02:24.720><c> that</c>
+like how did you do that
+ 
+like how did you do that
+and<00:02:26.480><c> then</c><00:02:26.640><c> he</c><00:02:27.280><c> the</c><00:02:27.680><c> open</c><00:02:28.000><c> cloth</c><00:02:28.239><c> found</c><00:02:28.640><c> audio</c>
+and then he the open cloth found audio
+ 
+and then he the open cloth found audio
+files<00:02:29.599><c> where</c><00:02:29.840><c> like</c><00:02:30.000><c> every</c><00:02:30.239><c> Sunday</c><00:02:30.560><c> he</c><00:02:30.800><c> was</c>
+files where like every Sunday he was
+ 
+files where like every Sunday he was
+recording<00:02:31.520><c> stuff</c><00:02:32.800><c> and</c><00:02:33.120><c> openclaw</c><00:02:33.680><c> found</c><00:02:33.840><c> that</c>
+recording stuff and openclaw found that
+ 
+recording stuff and openclaw found that
+but<00:02:35.360><c> he</c><00:02:35.599><c> didn't</c><00:02:35.680><c> even</c><00:02:35.920><c> remember</c><00:02:36.160><c> about</c><00:02:36.319><c> it</c>
+but he didn't even remember about it
+ 
+but he didn't even remember about it
+because<00:02:36.640><c> it</c><00:02:36.879><c> was</c><00:02:36.959><c> like</c><00:02:37.519><c> more</c><00:02:37.680><c> than</c><00:02:37.840><c> a</c><00:02:38.000><c> year</c><00:02:38.160><c> ago</c>
+because it was like more than a year ago
+ 
+because it was like more than a year ago
+right<00:02:39.280><c> so</c><00:02:39.680><c> So</c><00:02:40.319><c> just</c><00:02:40.560><c> by</c><00:02:40.879><c> it</c><00:02:41.360><c> being</c><00:02:41.599><c> able</c><00:02:41.760><c> to</c>
+right so So just by it being able to
+ 
+right so So just by it being able to
+search<00:02:42.160><c> a</c><00:02:42.319><c> whole</c><00:02:42.560><c> computer,</c><00:02:44.000><c> it</c><00:02:44.319><c> it</c><00:02:44.800><c> can</c>
+search a whole computer, it it can
+ 
+search a whole computer, it it can
+surprise<00:02:45.360><c> you.</c>
+surprise you.
+ 
+surprise you.
+&gt;&gt; It's<00:02:46.480><c> also</c>
+&gt;&gt; It's also
+ 
+&gt;&gt; It's also
+you<00:02:48.319><c> also</c><00:02:48.480><c> give</c><00:02:48.560><c> it</c><00:02:48.720><c> all</c><00:02:48.879><c> the</c><00:02:48.959><c> data,</c><00:02:49.200><c> right?</c><00:02:49.440><c> So</c>
+you also give it all the data, right? So
+ 
+you also give it all the data, right? So
+it<00:02:49.680><c> can</c><00:02:49.840><c> surprise</c><00:02:50.160><c> you</c><00:02:50.640><c> in</c><00:02:50.879><c> many</c><00:02:51.200><c> ways.</c>
+it can surprise you in many ways.
+ 
+it can surprise you in many ways.
+&gt;&gt; And<00:02:52.560><c> so</c><00:02:52.800><c> now</c><00:02:53.280><c> you</c><00:02:53.599><c> have,</c><00:02:53.920><c> you</c><00:02:54.080><c> know,</c><00:02:54.160><c> we're</c>
+&gt;&gt; And so now you have, you know, we're
+ 
+&gt;&gt; And so now you have, you know, we're
+even<00:02:54.640><c> moving</c><00:02:54.879><c> from</c><00:02:55.200><c> human</c><00:02:55.519><c> tobot.</c><00:02:56.560><c> So</c><00:02:56.720><c> like</c>
+even moving from human tobot. So like
+ 
+even moving from human tobot. So like
+interactions<00:02:57.440><c> and</c><00:02:57.519><c> you've</c><00:02:57.760><c> been</c><00:02:57.920><c> talking</c>
+interactions and you've been talking
+ 
+interactions and you've been talking
+about<00:02:58.640><c> tobottobot</c>
+about tobottobot
+ 
+about tobottobot
+interactions<00:03:01.200><c> or</c><00:03:01.519><c> even</c><00:03:01.760><c> like</c><00:03:02.159><c> bot</c><00:03:02.640><c> to</c><00:03:03.040><c> other</c>
+interactions or even like bot to other
+ 
+interactions or even like bot to other
+humans<00:03:03.840><c> where</c><00:03:04.239><c> you</c><00:03:04.400><c> know</c><00:03:04.560><c> bots</c><00:03:05.040><c> on</c><00:03:05.280><c> behalf</c><00:03:05.519><c> of</c>
+humans where you know bots on behalf of
+ 
+humans where you know bots on behalf of
+you<00:03:06.239><c> are</c><00:03:06.480><c> then</c><00:03:06.640><c> hiring</c><00:03:06.959><c> other</c><00:03:07.200><c> humans</c><00:03:07.440><c> to</c>
+you are then hiring other humans to
+ 
+you are then hiring other humans to
+accomplish<00:03:08.080><c> tasks</c><00:03:08.560><c> IRL</c><00:03:09.760><c> like</c><00:03:10.879><c> what's</c>
+accomplish tasks IRL like what's
+ 
+accomplish tasks IRL like what's
+happening
+happening
+ 
+happening
+&gt;&gt; I<00:03:13.040><c> think</c><00:03:13.120><c> that's</c><00:03:13.360><c> a</c><00:03:13.599><c> natural</c><00:03:13.920><c> next</c><00:03:14.239><c> step</c><00:03:14.959><c> like</c>
+&gt;&gt; I think that's a natural next step like
+ 
+&gt;&gt; I think that's a natural next step like
+okay<00:03:16.480><c> I</c><00:03:16.720><c> want</c><00:03:16.800><c> to</c><00:03:16.879><c> book</c><00:03:17.120><c> a</c><00:03:17.280><c> restaurant</c><00:03:18.239><c> my</c><00:03:18.480><c> bot</c>
+okay I want to book a restaurant my bot
+ 
+okay I want to book a restaurant my bot
+will<00:03:18.879><c> reach</c><00:03:19.040><c> out</c><00:03:19.280><c> to</c><00:03:20.000><c> the</c><00:03:20.239><c> restaurant</c><00:03:20.560><c> bot</c><00:03:20.879><c> and</c>
+will reach out to the restaurant bot and
+ 
+will reach out to the restaurant bot and
+do<00:03:21.120><c> the</c><00:03:21.360><c> negotiation</c>
+do the negotiation
+ 
+do the negotiation
+like<00:03:24.480><c> because</c><00:03:24.720><c> it's</c><00:03:24.959><c> more</c><00:03:25.120><c> efficient</c><00:03:26.000><c> Or</c><00:03:26.959><c> or</c>
+like because it's more efficient Or or
+ 
+like because it's more efficient Or or
+maybe<00:03:27.440><c> it's</c><00:03:27.599><c> like</c><00:03:27.760><c> an</c><00:03:27.920><c> old</c><00:03:28.080><c> restaurant.</c><00:03:28.480><c> So</c><00:03:28.640><c> my</c>
+maybe it's like an old restaurant. So my
+ 
+maybe it's like an old restaurant. So my
+bot<00:03:29.040><c> needs</c><00:03:29.200><c> to</c><00:03:29.360><c> actually</c><00:03:29.599><c> get</c><00:03:29.760><c> some</c><00:03:30.239><c> some</c>
+bot needs to actually get some some
+ 
+bot needs to actually get some some
+human<00:03:30.959><c> work</c><00:03:31.280><c> done</c><00:03:31.519><c> so</c><00:03:31.680><c> that</c><00:03:31.840><c> the</c><00:03:32.080><c> human</c><00:03:32.319><c> then</c>
+human work done so that the human then
+ 
+human work done so that the human then
+calls<00:03:32.799><c> the</c><00:03:33.120><c> restaurant</c><00:03:33.440><c> because</c><00:03:33.680><c> they</c><00:03:33.920><c> don't</c>
+calls the restaurant because they don't
+ 
+calls the restaurant because they don't
+like<00:03:34.239><c> bots</c>
+like bots
+ 
+like bots
+&gt;&gt; or<00:03:35.840><c> walks</c><00:03:36.080><c> there</c><00:03:36.400><c> to</c><00:03:36.560><c> stand</c><00:03:36.799><c> in</c><00:03:36.959><c> line</c>
+&gt;&gt; or walks there to stand in line
+ 
+&gt;&gt; or walks there to stand in line
+&gt;&gt; if<00:03:37.840><c> he</c><00:03:38.000><c> doesn't</c><00:03:38.080><c> get</c><00:03:38.159><c> a</c><00:03:38.319><c> robot</c><00:03:38.560><c> for</c>
+&gt;&gt; if he doesn't get a robot for
+ 
+&gt;&gt; if he doesn't get a robot for
+&gt;&gt; or<00:03:38.959><c> the</c><00:03:39.120><c> owner</c><00:03:39.360><c> of</c><00:03:39.599><c> the</c><00:03:39.760><c> bot.</c><00:03:40.082><c> [laughter]</c>
+&gt;&gt; or the owner of the bot. [laughter]
+ 
+&gt;&gt; or the owner of the bot. [laughter]
+&gt;&gt; And<00:03:42.080><c> I</c><00:03:42.319><c> imagine</c><00:03:42.640><c> that</c><00:03:42.799><c> like</c><00:03:43.040><c> maybe</c><00:03:43.280><c> if</c><00:03:43.760><c> if</c><00:03:44.000><c> I</c>
+&gt;&gt; And I imagine that like maybe if if I
+ 
+&gt;&gt; And I imagine that like maybe if if I
+have<00:03:44.400><c> even</c><00:03:44.799><c> multiple</c><00:03:45.280><c> bots</c><00:03:46.480><c> like</c><00:03:46.640><c> maybe</c><00:03:46.799><c> I</c>
+have even multiple bots like maybe I
+ 
+have even multiple bots like maybe I
+have<00:03:47.040><c> like</c><00:03:47.280><c> specialist</c><00:03:47.840><c> one</c><00:03:47.920><c> is</c><00:03:48.080><c> like</c><00:03:48.239><c> for</c><00:03:48.480><c> my</c>
+have like specialist one is like for my
+ 
+have like specialist one is like for my
+private<00:03:49.040><c> life</c><00:03:49.360><c> and</c><00:03:49.599><c> one</c><00:03:49.680><c> is</c><00:03:49.840><c> for</c><00:03:50.000><c> like</c><00:03:50.159><c> my</c>
+private life and one is for like my
+ 
+private life and one is for like my
+person<00:03:50.640><c> my</c><00:03:50.799><c> my</c><00:03:51.280><c> work</c><00:03:51.519><c> stuff.</c><00:03:52.239><c> Maybe</c><00:03:52.560><c> one</c><00:03:52.720><c> is</c>
+person my my work stuff. Maybe one is
+ 
+person my my work stuff. Maybe one is
+our<00:03:53.200><c> relationship</c><00:03:53.680><c> bot</c><00:03:54.000><c> that</c><00:03:54.239><c> gets</c><00:03:54.480><c> like</c>
+our relationship bot that gets like
+ 
+our relationship bot that gets like
+everything<00:03:55.120><c> in</c><00:03:55.280><c> between.</c><00:03:56.400><c> Uh</c><00:03:56.879><c> I</c><00:03:57.120><c> don't</c><00:03:57.280><c> know.</c>
+everything in between. Uh I don't know.
+ 
+everything in between. Uh I don't know.
+We're<00:03:58.000><c> so</c><00:03:58.159><c> early.</c><00:03:58.720><c> There's</c><00:03:58.959><c> still</c><00:03:59.120><c> so</c><00:03:59.360><c> much</c><00:04:00.239><c> so</c>
+We're so early. There's still so much so
+ 
+We're so early. There's still so much so
+many<00:04:00.720><c> things</c><00:04:01.040><c> that</c><00:04:01.680><c> we</c><00:04:01.920><c> haven't</c><00:04:02.159><c> really</c>
+many things that we haven't really
+ 
+many things that we haven't really
+figured<00:04:02.560><c> out</c><00:04:02.720><c> if</c><00:04:02.879><c> it</c><00:04:03.120><c> actually</c><00:04:03.360><c> works.</c><00:04:04.080><c> Um</c><00:04:04.879><c> but</c>
+figured out if it actually works. Um but
+ 
+figured out if it actually works. Um but
+I<00:04:05.280><c> feel</c><00:04:05.439><c> we</c><00:04:05.680><c> are</c><00:04:06.239><c> we</c><00:04:06.480><c> are</c><00:04:06.560><c> on</c><00:04:06.720><c> the</c><00:04:06.799><c> timeline</c>
+I feel we are we are on the timeline
+ 
+I feel we are we are on the timeline
+now.
+now.
+ 
+now.
+&gt;&gt; It<00:04:07.920><c> seems</c><00:04:08.080><c> like</c><00:04:08.239><c> everyone</c><00:04:08.560><c> was</c><00:04:08.720><c> chasing</c><00:04:09.120><c> sort</c>
+&gt;&gt; It seems like everyone was chasing sort
+ 
+&gt;&gt; It seems like everyone was chasing sort
+of<00:04:09.360><c> like</c><00:04:09.519><c> the</c><00:04:10.000><c> sort</c><00:04:10.159><c> of</c><00:04:10.239><c> like</c><00:04:10.400><c> centralized</c><00:04:11.120><c> god</c>
+of like the sort of like centralized god
+ 
+of like the sort of like centralized god
+intelligence<00:04:12.640><c> and</c><00:04:13.040><c> what</c><00:04:13.120><c> has</c><00:04:13.280><c> sort</c><00:04:13.439><c> of</c>
+intelligence and what has sort of
+ 
+intelligence and what has sort of
+emerged<00:04:14.080><c> over</c><00:04:14.319><c> the</c><00:04:14.480><c> past</c><00:04:14.720><c> you</c><00:04:14.799><c> know</c><00:04:14.959><c> 10</c><00:04:15.200><c> days</c>
+emerged over the past you know 10 days
+ 
+emerged over the past you know 10 days
+or<00:04:15.599><c> so</c><00:04:15.920><c> is</c><00:04:16.160><c> sort</c><00:04:16.239><c> of</c><00:04:16.320><c> like</c><00:04:16.479><c> the</c><00:04:16.639><c> swarm</c>
+or so is sort of like the swarm
+ 
+or so is sort of like the swarm
+intelligence<00:04:18.079><c> um</c><00:04:18.239><c> and</c><00:04:18.720><c> and</c><00:04:19.040><c> the</c><00:04:19.199><c> community</c>
+intelligence um and and the community
+ 
+intelligence um and and the community
+intelligence.<00:04:20.079><c> I</c><00:04:20.320><c> think</c><00:04:20.400><c> that</c><00:04:20.639><c> if</c><00:04:20.880><c> you</c><00:04:20.959><c> look</c>
+intelligence. I think that if you look
+ 
+intelligence. I think that if you look
+at<00:04:22.000><c> one</c><00:04:22.400><c> human</c><00:04:22.720><c> being,</c>
+at one human being,
+ 
+at one human being,
+what<00:04:24.720><c> can</c><00:04:25.040><c> one</c><00:04:25.360><c> human</c><00:04:25.600><c> being</c><00:04:25.840><c> actually</c>
+what can one human being actually
+ 
+what can one human being actually
+achieve?<00:04:26.479><c> Do</c><00:04:26.560><c> you</c><00:04:26.720><c> think</c><00:04:26.880><c> one</c><00:04:27.040><c> human</c><00:04:27.199><c> being</c>
+achieve? Do you think one human being
+ 
+achieve? Do you think one human being
+could<00:04:27.600><c> make</c><00:04:27.680><c> an</c><00:04:27.919><c> iPhone</c><00:04:28.639><c> or</c><00:04:28.880><c> one</c><00:04:29.199><c> human</c><00:04:29.440><c> being</c>
+could make an iPhone or one human being
+ 
+could make an iPhone or one human being
+could<00:04:30.000><c> go</c><00:04:30.160><c> to</c><00:04:30.400><c> space?</c>
+could go to space?
+ 
+could go to space?
+One<00:04:32.160><c> human</c><00:04:32.320><c> being</c><00:04:32.560><c> would</c><00:04:32.720><c> probably</c><00:04:32.960><c> just</c><00:04:33.199><c> like</c>
+One human being would probably just like
+ 
+One human being would probably just like
+not<00:04:33.680><c> even</c><00:04:33.919><c> be</c><00:04:34.000><c> able</c><00:04:34.160><c> to</c><00:04:34.240><c> like</c><00:04:34.960><c> find</c><00:04:35.360><c> food.</c>
+not even be able to like find food.
+ 
+not even be able to like find food.
+Um,<00:04:37.919><c> but</c><00:04:38.240><c> as</c><00:04:38.479><c> a</c><00:04:38.639><c> group</c><00:04:39.680><c> we</c><00:04:40.000><c> specialize</c><00:04:41.440><c> as</c><00:04:41.680><c> a</c>
+Um, but as a group we specialize as a
+ 
+Um, but as a group we specialize as a
+larger<00:04:42.240><c> society</c><00:04:43.440><c> we</c><00:04:43.680><c> specialize</c><00:04:44.160><c> even</c><00:04:44.479><c> more.</c>
+larger society we specialize even more.
+ 
+larger society we specialize even more.
+So,<00:04:45.680><c> what</c><00:04:45.840><c> can</c><00:04:46.000><c> we</c><00:04:46.160><c> learn</c><00:04:46.320><c> from</c><00:04:46.560><c> that</c><00:04:47.600><c> that</c><00:04:47.919><c> we</c>
+So, what can we learn from that that we
+ 
+So, what can we learn from that that we
+can<00:04:48.240><c> apply</c><00:04:48.479><c> to</c><00:04:48.639><c> AI?</c><00:04:49.600><c> You</c><00:04:49.759><c> know,</c><00:04:49.919><c> we</c><00:04:50.080><c> we</c><00:04:50.400><c> already</c>
+can apply to AI? You know, we we already
+ 
+can apply to AI? You know, we we already
+have<00:04:50.800><c> like</c><00:04:52.080><c> AI</c><00:04:52.479><c> that</c><00:04:52.720><c> specializes</c><00:04:53.280><c> in</c><00:04:53.440><c> certain</c>
+have like AI that specializes in certain
+ 
+have like AI that specializes in certain
+things.<00:04:54.560><c> Um,</c><00:04:54.880><c> even</c><00:04:55.040><c> though</c><00:04:55.280><c> it's</c><00:04:55.440><c> it's</c>
+things. Um, even though it's it's
+ 
+things. Um, even though it's it's
+generalized<00:04:56.320><c> intelligence,</c><00:04:56.880><c> what</c><00:04:57.040><c> if</c><00:04:57.199><c> it</c>
+generalized intelligence, what if it
+ 
+generalized intelligence, what if it
+actually<00:04:57.680><c> is</c><00:04:57.919><c> also</c><00:04:58.880><c> specialized</c>
+actually is also specialized
+ 
+actually is also specialized
+intelligence?
+intelligence?
+ 
+intelligence?
+So,<00:05:01.840><c> I</c><00:05:02.160><c> it's</c><00:05:02.400><c> going</c><00:05:02.479><c> to</c><00:05:02.560><c> be</c><00:05:02.639><c> very</c><00:05:02.880><c> exciting,</c>
+So, I it's going to be very exciting,
+ 
+So, I it's going to be very exciting,
+cool.
+cool.
+ 
+cool.
+&gt;&gt; Yeah.<00:05:04.080><c> You</c><00:05:04.240><c> kind</c><00:05:04.400><c> of</c><00:05:04.479><c> like</c><00:05:04.720><c> opened</c><00:05:05.040><c> a</c><00:05:05.280><c> window</c>
+&gt;&gt; Yeah. You kind of like opened a window
+ 
+&gt;&gt; Yeah. You kind of like opened a window
+into<00:05:05.840><c> the</c><00:05:06.000><c> future</c><00:05:06.240><c> and</c><00:05:06.479><c> now</c><00:05:06.560><c> a</c><00:05:06.800><c> ton</c><00:05:06.960><c> of</c><00:05:07.039><c> people</c>
+into the future and now a ton of people
+ 
+into the future and now a ton of people
+are<00:05:07.440><c> kind</c><00:05:07.520><c> of</c><00:05:07.600><c> like</c><00:05:07.840><c> building</c><00:05:08.160><c> building</c><00:05:08.479><c> on</c><00:05:08.639><c> it</c>
+are kind of like building building on it
+ 
+are kind of like building building on it
+and<00:05:09.120><c> have</c><00:05:09.280><c> sort</c><00:05:09.520><c> of</c><00:05:09.600><c> like</c><00:05:09.759><c> their</c><00:05:10.000><c> aha</c><00:05:10.400><c> moment.</c>
+and have sort of like their aha moment.
+ 
+and have sort of like their aha moment.
+Um,<00:05:11.360><c> can</c><00:05:11.520><c> you</c><00:05:11.600><c> walk</c><00:05:11.759><c> me</c><00:05:11.919><c> back</c><00:05:12.080><c> to</c><00:05:12.400><c> when</c><00:05:12.639><c> you</c><00:05:12.880><c> had</c>
+Um, can you walk me back to when you had
+ 
+Um, can you walk me back to when you had
+your<00:05:13.360><c> aha</c><00:05:13.759><c> moment</c><00:05:14.000><c> and</c><00:05:14.240><c> can</c><00:05:14.320><c> like</c><00:05:14.560><c> re</c><00:05:14.800><c> recount</c>
+your aha moment and can like re recount
+ 
+your aha moment and can like re recount
+that<00:05:15.360><c> very</c><00:05:15.600><c> moment?</c>
+that very moment?
+ 
+that very moment?
+&gt;&gt; I<00:05:16.560><c> wanted</c><00:05:16.800><c> something</c><00:05:17.120><c> to</c><00:05:17.280><c> like</c><00:05:17.520><c> just</c><00:05:18.080><c> type</c>
+&gt;&gt; I wanted something to like just type
+ 
+&gt;&gt; I wanted something to like just type
+stuff<00:05:18.639><c> so</c><00:05:18.960><c> my</c><00:05:19.120><c> computer</c><00:05:19.440><c> would</c><00:05:19.600><c> do</c><00:05:19.840><c> stuff</c><00:05:20.720><c> like</c>
+stuff so my computer would do stuff like
+ 
+stuff so my computer would do stuff like
+very<00:05:21.360><c> simple.</c><00:05:21.600><c> And</c><00:05:21.759><c> then</c><00:05:21.919><c> I</c><00:05:22.160><c> built</c><00:05:23.520><c> I</c><00:05:23.759><c> built</c><00:05:24.000><c> a</c>
+very simple. And then I built I built a
+ 
+very simple. And then I built I built a
+version<00:05:24.400><c> of</c><00:05:24.639><c> that</c><00:05:24.960><c> in</c><00:05:25.280><c> May,</c><00:05:25.600><c> June</c><00:05:26.479><c> that</c><00:05:27.600><c> was</c>
+version of that in May, June that was
+ 
+version of that in May, June that was
+cool<00:05:28.080><c> but</c><00:05:28.400><c> wasn't</c><00:05:28.639><c> really</c><00:05:28.880><c> it.</c><00:05:29.680><c> Um,</c>
+cool but wasn't really it. Um,
+ 
+cool but wasn't really it. Um,
+and<00:05:31.360><c> then</c><00:05:31.520><c> I</c><00:05:31.680><c> built</c><00:05:31.840><c> a</c><00:05:32.000><c> whole</c><00:05:32.160><c> bunch</c><00:05:32.240><c> of</c><00:05:32.400><c> other</c>
+and then I built a whole bunch of other
+ 
+and then I built a whole bunch of other
+stuff<00:05:33.360><c> and</c><00:05:34.720><c> kind</c><00:05:34.960><c> of</c><00:05:35.039><c> like</c><00:05:35.199><c> build</c><00:05:35.440><c> up</c><00:05:35.600><c> my</c><00:05:35.759><c> army.</c>
+stuff and kind of like build up my army.
+ 
+stuff and kind of like build up my army.
+And<00:05:37.440><c> then</c><00:05:37.600><c> in</c><00:05:37.759><c> November,</c>
+And then in November,
+ 
+And then in November,
+there<00:05:40.240><c> was</c><00:05:40.320><c> a</c><00:05:40.560><c> day</c><00:05:40.720><c> where</c><00:05:40.960><c> I</c><00:05:41.120><c> wanted</c><00:05:41.360><c> this</c>
+there was a day where I wanted this
+ 
+there was a day where I wanted this
+again.<00:05:42.080><c> Like</c><00:05:42.240><c> I</c><00:05:43.440><c> I</c><00:05:43.840><c> went</c><00:05:43.919><c> to</c><00:05:44.080><c> the</c><00:05:44.240><c> kitchen</c><00:05:44.479><c> and</c>
+again. Like I I went to the kitchen and
+ 
+again. Like I I went to the kitchen and
+all<00:05:44.880><c> I</c><00:05:45.039><c> wanted</c><00:05:45.280><c> was</c><00:05:45.440><c> check</c><00:05:45.600><c> up</c><00:05:45.759><c> if</c><00:05:45.919><c> my</c><00:05:46.160><c> computer</c>
+all I wanted was check up if my computer
+ 
+all I wanted was check up if my computer
+would<00:05:46.639><c> still</c><00:05:46.880><c> do</c><00:05:47.039><c> stuff</c><00:05:48.000><c> or</c><00:05:48.320><c> being</c><00:05:48.639><c> finished</c>
+would still do stuff or being finished
+ 
+would still do stuff or being finished
+&gt;&gt; and<00:05:49.680><c> doing</c><00:05:49.919><c> stuff</c><00:05:50.160><c> was</c><00:05:50.320><c> was</c><00:05:50.639><c> coding.</c><00:05:51.039><c> You</c><00:05:51.199><c> were</c>
+&gt;&gt; and doing stuff was was coding. You were
+ 
+&gt;&gt; and doing stuff was was coding. You were
+coding<00:05:51.680><c> stuff.</c>
+coding stuff.
+ 
+coding stuff.
+&gt;&gt; Yeah,<00:05:52.160><c> of</c><00:05:52.320><c> course.</c>
+&gt;&gt; Yeah, of course.
+ 
+&gt;&gt; Yeah, of course.
+&gt;&gt; Were<00:05:53.199><c> you</c><00:05:53.360><c> coding</c><00:05:53.680><c> something</c><00:05:54.000><c> else</c><00:05:54.560><c> or</c><00:05:54.880><c> were</c>
+&gt;&gt; Were you coding something else or were
+ 
+&gt;&gt; Were you coding something else or were
+you<00:05:55.199><c> coding</c><00:05:56.000><c> the</c><00:05:56.320><c> thing</c><00:05:56.560><c> itself?</c>
+you coding the thing itself?
+ 
+you coding the thing itself?
+&gt;&gt; No,<00:05:57.759><c> no,</c><00:05:58.400><c> that</c><00:05:58.639><c> was</c><00:05:58.720><c> just</c><00:05:58.960><c> like</c><00:05:59.120><c> the</c><00:05:59.280><c> need</c><00:05:59.680><c> was</c>
+&gt;&gt; No, no, that was just like the need was
+ 
+&gt;&gt; No, no, that was just like the need was
+again<00:06:00.320><c> there</c><00:06:00.479><c> and</c><00:06:00.639><c> I'm</c><00:06:00.880><c> like,</c>
+again there and I'm like,
+ 
+again there and I'm like,
+&gt;&gt; what<00:06:01.840><c> were</c><00:06:02.000><c> you</c><00:06:02.080><c> coding</c><00:06:02.320><c> at</c><00:06:02.479><c> the</c><00:06:02.639><c> time?</c><00:06:03.039><c> What</c>
+&gt;&gt; what were you coding at the time? What
+ 
+&gt;&gt; what were you coding at the time? What
+were<00:06:03.280><c> you</c><00:06:03.440><c> building?</c><00:06:04.240><c> My</c><00:06:04.479><c> god.</c><00:06:05.039><c> You</c><00:06:05.199><c> see</c><00:06:05.280><c> my</c><00:06:05.440><c> my</c>
+were you building? My god. You see my my
+ 
+were you building? My god. You see my my
+GitHub<00:06:05.919><c> is</c><00:06:06.080><c> like</c><00:06:06.240><c> it's</c><00:06:06.400><c> like</c><00:06:06.560><c> 40</c><00:06:06.880><c> projects.</c><00:06:07.520><c> I</c>
+GitHub is like it's like 40 projects. I
+ 
+GitHub is like it's like 40 projects. I
+don't<00:06:07.840><c> even</c><00:06:08.000><c> know.</c><00:06:09.199><c> Um</c><00:06:09.680><c> I</c><00:06:09.919><c> think</c><00:06:10.000><c> it</c><00:06:10.160><c> was</c>
+don't even know. Um I think it was
+ 
+don't even know. Um I think it was
+summarize.
+summarize.
+ 
+summarize.
+It's<00:06:12.000><c> like</c><00:06:12.160><c> a</c><00:06:12.720><c> it's</c><00:06:12.960><c> like</c><00:06:13.039><c> a</c><00:06:13.199><c> little</c><00:06:13.360><c> CLI</c><00:06:13.759><c> app</c>
+It's like a it's like a little CLI app
+ 
+It's like a it's like a little CLI app
+where<00:06:14.240><c> you</c><00:06:14.400><c> can</c><00:06:14.479><c> give</c><00:06:14.639><c> it</c><00:06:15.680><c> whatever</c><00:06:16.080><c> like</c><00:06:16.240><c> a</c>
+where you can give it whatever like a
+ 
+where you can give it whatever like a
+podcast<00:06:16.960><c> or</c><00:06:18.400><c> um</c><00:06:18.639><c> a</c><00:06:18.880><c> hot</c><00:06:19.120><c> seat</c><00:06:19.360><c> thing</c><00:06:19.600><c> like</c><00:06:19.759><c> here</c>
+podcast or um a hot seat thing like here
+ 
+podcast or um a hot seat thing like here
+and<00:06:20.080><c> it</c><00:06:20.319><c> would</c><00:06:20.479><c> summarize</c><00:06:20.800><c> it</c><00:06:20.960><c> but</c><00:06:21.120><c> it</c><00:06:21.280><c> also</c>
+and it would summarize it but it also
+ 
+and it would summarize it but it also
+show<00:06:21.520><c> you</c><00:06:21.680><c> the</c><00:06:21.840><c> slides</c><00:06:22.080><c> in</c><00:06:22.319><c> the</c><00:06:22.479><c> terminal</c><00:06:22.960><c> cuz</c>
+show you the slides in the terminal cuz
+ 
+show you the slides in the terminal cuz
+you<00:06:23.360><c> can</c><00:06:23.440><c> do</c><00:06:23.520><c> that</c><00:06:23.759><c> nowadays.</c><00:06:24.400><c> Yeah.</c><00:06:24.639><c> You</c><00:06:24.800><c> can</c>
+you can do that nowadays. Yeah. You can
+ 
+you can do that nowadays. Yeah. You can
+just<00:06:25.039><c> do</c><00:06:25.280><c> things.</c>
+just do things.
+ 
+just do things.
+&gt;&gt; So<00:06:26.080><c> for</c><00:06:26.240><c> the</c><00:06:26.400><c> love</c><00:06:26.560><c> of</c><00:06:26.720><c> the</c><00:06:26.880><c> computer</c><00:06:27.199><c> you</c><00:06:27.360><c> kind</c>
+&gt;&gt; So for the love of the computer you kind
+ 
+&gt;&gt; So for the love of the computer you kind
+of<00:06:27.680><c> like</c><00:06:27.919><c> started</c><00:06:28.319><c> messing</c><00:06:28.560><c> with</c><00:06:28.800><c> stuff.</c>
+of like started messing with stuff.
+ 
+of like started messing with stuff.
+&gt;&gt; Um<00:06:29.919><c> you</c><00:06:30.080><c> came</c><00:06:30.240><c> out</c><00:06:30.400><c> of</c><00:06:30.560><c> retirement</c><00:06:31.120><c> actually,</c>
+&gt;&gt; Um you came out of retirement actually,
+ 
+&gt;&gt; Um you came out of retirement actually,
+right?<00:06:32.400><c> um</c><00:06:32.560><c> to</c><00:06:32.800><c> sort</c><00:06:33.039><c> like</c><00:06:33.199><c> mess</c><00:06:33.440><c> with</c><00:06:33.600><c> AI</c><00:06:34.560><c> and</c>
+right? um to sort like mess with AI and
+ 
+right? um to sort like mess with AI and
+then<00:06:34.960><c> increasingly</c><00:06:35.520><c> you</c><00:06:35.680><c> were</c><00:06:35.840><c> so</c><00:06:36.000><c> hooked</c>
+then increasingly you were so hooked
+ 
+then increasingly you were so hooked
+that<00:06:36.400><c> you</c><00:06:36.560><c> wanted</c><00:06:36.720><c> to</c><00:06:36.960><c> just</c><00:06:37.199><c> do</c><00:06:37.360><c> it</c><00:06:37.520><c> always</c>
+that you wanted to just do it always
+ 
+that you wanted to just do it always
+also<00:06:38.080><c> on</c><00:06:38.240><c> the</c><00:06:38.400><c> go</c><00:06:38.560><c> with</c><00:06:38.720><c> the</c><00:06:38.880><c> phone.</c>
+also on the go with the phone.
+ 
+also on the go with the phone.
+&gt;&gt; I<00:06:40.080><c> mean</c><00:06:40.240><c> the</c><00:06:40.479><c> last</c><00:06:40.639><c> project</c><00:06:40.960><c> I</c><00:06:41.199><c> I</c><00:06:41.520><c> worked</c><00:06:41.759><c> two</c>
+&gt;&gt; I mean the last project I I worked two
+ 
+&gt;&gt; I mean the last project I I worked two
+months<00:06:42.319><c> on</c><00:06:42.479><c> Wipe</c><00:06:42.880><c> Tunnel</c>
+months on Wipe Tunnel
+ 
+months on Wipe Tunnel
+&gt;&gt; to<00:06:44.319><c> the</c><00:06:44.479><c> point</c><00:06:44.560><c> where</c><00:06:44.720><c> it</c><00:06:44.960><c> got</c><00:06:45.120><c> so</c><00:06:45.280><c> good</c><00:06:45.840><c> that</c><00:06:46.160><c> I</c>
+&gt;&gt; to the point where it got so good that I
+ 
+&gt;&gt; to the point where it got so good that I
+was<00:06:46.560><c> catching</c><00:06:46.880><c> myself</c><00:06:47.280><c> always</c><00:06:47.600><c> like</c><00:06:48.240><c> coding</c>
+was catching myself always like coding
+ 
+was catching myself always like coding
+next<00:06:49.280><c> to</c><00:06:49.440><c> my</c><00:06:49.840><c> when</c><00:06:50.080><c> I</c><00:06:50.240><c> was</c><00:06:50.319><c> at</c><00:06:50.479><c> my</c><00:06:50.639><c> friends</c><00:06:50.880><c> and</c>
+next to my when I was at my friends and
+ 
+next to my when I was at my friends and
+I<00:06:51.280><c> like</c><00:06:51.440><c> I</c><00:06:51.600><c> need</c><00:06:51.680><c> to</c><00:06:51.840><c> stop</c><00:06:51.919><c> this</c><00:06:52.160><c> this</c><00:06:52.319><c> is</c><00:06:52.400><c> like</c>
+I like I need to stop this this is like
+ 
+I like I need to stop this this is like
+too<00:06:52.720><c> addictive.</c><00:06:54.080><c> And</c><00:06:54.240><c> then</c><00:06:54.400><c> in</c><00:06:54.639><c> November</c><00:06:55.039><c> and</c>
+too addictive. And then in November and
+ 
+too addictive. And then in November and
+like<00:06:55.360><c> my</c><00:06:55.520><c> need</c><00:06:55.759><c> came</c><00:06:56.000><c> back</c><00:06:56.240><c> and</c><00:06:56.479><c> I</c><00:06:57.440><c> I</c><00:06:57.759><c> started</c>
+like my need came back and I I started
+ 
+like my need came back and I I started
+building<00:06:58.639><c> cloudbot</c><00:06:59.280><c> or</c><00:06:59.440><c> now</c><00:06:59.599><c> it's</c><00:06:59.840><c> called</c>
+building cloudbot or now it's called
+ 
+building cloudbot or now it's called
+open<00:07:00.479><c> cloud</c><00:07:01.599><c> and</c><00:07:02.400><c> I</c><00:07:02.560><c> think</c><00:07:02.720><c> very</c><00:07:02.960><c> very</c><00:07:03.199><c> in</c><00:07:03.360><c> the</c>
+open cloud and I think very very in the
+ 
+open cloud and I think very very in the
+beginning<00:07:03.599><c> I</c><00:07:03.840><c> was</c><00:07:03.919><c> like</c><00:07:04.240><c> oh</c><00:07:04.720><c> I</c><00:07:04.960><c> rebuilt</c><00:07:05.360><c> it</c>
+beginning I was like oh I rebuilt it
+ 
+beginning I was like oh I rebuilt it
+again<00:07:06.080><c> but</c><00:07:06.319><c> this</c><00:07:06.479><c> time</c><00:07:06.560><c> I</c><00:07:06.720><c> built</c><00:07:06.880><c> it</c><00:07:07.120><c> even</c>
+again but this time I built it even
+ 
+again but this time I built it even
+better
+better
+ 
+better
+&gt;&gt; this<00:07:08.319><c> time</c><00:07:08.479><c> and</c><00:07:08.639><c> you</c><00:07:08.720><c> don't</c><00:07:08.880><c> type</c><00:07:09.039><c> into</c><00:07:09.199><c> a</c>
+&gt;&gt; this time and you don't type into a
+ 
+&gt;&gt; this time and you don't type into a
+terminal<00:07:09.840><c> you</c><00:07:10.080><c> just</c><00:07:10.400><c> you</c><00:07:10.720><c> talk</c><00:07:10.880><c> to</c><00:07:11.039><c> a</c><00:07:11.280><c> friend</c>
+terminal you just you talk to a friend
+ 
+terminal you just you talk to a friend
+you<00:07:12.960><c> don't</c><00:07:13.120><c> think</c><00:07:13.360><c> about</c><00:07:14.080><c> compaction</c><00:07:14.880><c> new</c>
+you don't think about compaction new
+ 
+you don't think about compaction new
+sessions<00:07:15.840><c> which</c><00:07:16.080><c> folder</c><00:07:16.479><c> I'm</c><00:07:16.720><c> in</c><00:07:16.960><c> which</c><00:07:17.280><c> model</c>
+sessions which folder I'm in which model
+ 
+sessions which folder I'm in which model
+I'm<00:07:17.759><c> in</c><00:07:18.080><c> I</c><00:07:18.240><c> mean</c><00:07:18.720><c> you</c><00:07:19.120><c> can</c><00:07:19.759><c> you</c><00:07:19.919><c> know</c><00:07:20.080><c> just</c><00:07:20.400><c> like</c>
+I'm in I mean you can you know just like
+ 
+I'm in I mean you can you know just like
+I<00:07:20.880><c> want</c><00:07:20.960><c> to</c><00:07:21.199><c> leave</c><00:07:21.360><c> it</c><00:07:21.599><c> open</c><00:07:21.759><c> for</c><00:07:21.919><c> power</c><00:07:22.240><c> users</c>
+I want to leave it open for power users
+ 
+I want to leave it open for power users
+but<00:07:23.360><c> usually</c><00:07:23.759><c> You</c><00:07:23.919><c> just</c><00:07:24.080><c> like</c><00:07:24.319><c> you</c><00:07:24.560><c> just</c><00:07:24.720><c> talk</c>
+but usually You just like you just talk
+ 
+but usually You just like you just talk
+to<00:07:25.039><c> a</c><00:07:25.199><c> friend</c><00:07:25.520><c> and</c><00:07:25.759><c> the</c><00:07:26.000><c> friend</c><00:07:26.160><c> is</c><00:07:26.400><c> like</c><00:07:27.039><c> this</c>
+to a friend and the friend is like this
+ 
+to a friend and the friend is like this
+ghost<00:07:28.720><c> or</c><00:07:28.960><c> entity</c><00:07:29.360><c> or</c><00:07:29.520><c> whatever</c><00:07:29.759><c> you</c><00:07:29.919><c> want</c><00:07:30.000><c> to</c>
+ghost or entity or whatever you want to
+ 
+ghost or entity or whatever you want to
+call<00:07:30.160><c> it</c><00:07:30.400><c> that</c><00:07:31.120><c> can</c><00:07:31.520><c> control</c><00:07:31.840><c> your</c><00:07:32.080><c> mouse</c><00:07:32.319><c> and</c>
+call it that can control your mouse and
+ 
+call it that can control your mouse and
+your<00:07:32.639><c> keyboard</c><00:07:32.960><c> and</c><00:07:33.199><c> can</c><00:07:33.360><c> just</c><00:07:33.520><c> do</c><00:07:33.680><c> stuff.</c>
+your keyboard and can just do stuff.
+ 
+your keyboard and can just do stuff.
+&gt;&gt; Yeah.<00:07:34.560><c> And</c><00:07:34.720><c> when</c><00:07:34.960><c> did</c><00:07:35.120><c> you</c><00:07:35.199><c> have</c><00:07:35.360><c> that</c><00:07:35.520><c> aha</c>
+&gt;&gt; Yeah. And when did you have that aha
+ 
+&gt;&gt; Yeah. And when did you have that aha
+moment<00:07:36.240><c> when</c><00:07:36.400><c> you</c><00:07:36.560><c> were</c><00:07:36.720><c> like</c><00:07:37.039><c> wow</c><00:07:37.280><c> this</c><00:07:37.440><c> is</c>
+moment when you were like wow this is
+ 
+moment when you were like wow this is
+doing<00:07:37.919><c> way</c><00:07:38.240><c> more</c><00:07:38.560><c> things</c><00:07:38.880><c> than</c><00:07:39.360><c> I</c><00:07:39.680><c> actually</c>
+doing way more things than I actually
+ 
+doing way more things than I actually
+thought<00:07:40.800><c> it</c><00:07:41.120><c> could.</c>
+thought it could.
+ 
+thought it could.
+&gt;&gt; Literally<00:07:41.919><c> I</c><00:07:42.639><c> it</c><00:07:42.800><c> took</c><00:07:43.039><c> me</c><00:07:43.199><c> one</c><00:07:43.440><c> hour</c><00:07:44.319><c> for</c><00:07:44.560><c> like</c>
+&gt;&gt; Literally I it took me one hour for like
+ 
+&gt;&gt; Literally I it took me one hour for like
+the<00:07:45.039><c> the</c><00:07:45.520><c> very</c><00:07:45.759><c> shitty</c><00:07:46.240><c> initial</c><00:07:46.639><c> prototype.</c>
+the the very shitty initial prototype.
+ 
+the the very shitty initial prototype.
+It<00:07:48.000><c> was</c><00:07:48.160><c> just</c><00:07:48.240><c> a</c><00:07:48.400><c> little</c><00:07:48.479><c> bit</c><00:07:48.639><c> of</c><00:07:48.720><c> glue</c><00:07:49.120><c> between</c>
+It was just a little bit of glue between
+ 
+It was just a little bit of glue between
+like<00:07:50.400><c> a</c><00:07:50.639><c> dependency</c><00:07:51.120><c> that</c><00:07:51.440><c> connects</c><00:07:51.759><c> WhatsApp</c>
+like a dependency that connects WhatsApp
+ 
+like a dependency that connects WhatsApp
+and<00:07:52.800><c> cloud</c><00:07:53.120><c> code</c><00:07:53.759><c> and</c><00:07:53.919><c> then</c><00:07:54.080><c> I</c><00:07:54.319><c> would</c><00:07:54.479><c> like</c>
+and cloud code and then I would like
+ 
+and cloud code and then I would like
+call<00:07:55.599><c> color</c><00:07:55.599><c> call</c><00:07:55.759><c> out</c><00:07:56.000><c> code</c><00:07:56.240><c> and</c><00:07:56.400><c> get</c><00:07:56.560><c> like</c>
+call color call out code and get like
+ 
+call color call out code and get like
+the<00:07:56.879><c> string</c><00:07:57.039><c> out</c><00:07:57.199><c> of</c><00:07:57.280><c> cloth</c><00:07:57.599><c> code.</c><00:07:58.000><c> It</c><00:07:58.240><c> would</c>
+the string out of cloth code. It would
+ 
+the string out of cloth code. It would
+be<00:07:58.560><c> slow</c><00:07:58.879><c> but</c><00:07:59.120><c> it</c><00:07:59.280><c> it</c><00:07:59.599><c> worked.</c><00:08:00.960><c> But</c><00:08:01.120><c> I</c><00:08:01.280><c> wanted</c>
+be slow but it it worked. But I wanted
+ 
+be slow but it it worked. But I wanted
+images<00:08:02.160><c> cuz</c><00:08:02.639><c> you</c><00:08:02.720><c> know</c><00:08:02.879><c> you</c><00:08:03.039><c> want</c><00:08:03.199><c> pictures.</c><00:08:03.599><c> I</c>
+images cuz you know you want pictures. I
+ 
+images cuz you know you want pictures. I
+want<00:08:03.840><c> I</c><00:08:04.080><c> want</c><00:08:04.400><c> I</c><00:08:04.639><c> want</c><00:08:04.720><c> the</c><00:08:04.879><c> model</c><00:08:05.039><c> to</c><00:08:05.199><c> send</c>
+want I want I want the model to send
+ 
+want I want I want the model to send
+some<00:08:05.520><c> selfies</c><00:08:05.840><c> or</c><00:08:06.080><c> whatever</c><00:08:06.400><c> and</c><00:08:06.560><c> I</c><00:08:06.800><c> want</c><00:08:06.879><c> the</c>
+some selfies or whatever and I want the
+ 
+some selfies or whatever and I want the
+model<00:08:07.199><c> to</c><00:08:07.360><c> create</c><00:08:07.599><c> images</c><00:08:08.000><c> and</c><00:08:08.080><c> me</c><00:08:08.240><c> back.</c><00:08:09.039><c> So</c>
+model to create images and me back. So
+ 
+model to create images and me back. So
+that<00:08:09.440><c> took</c><00:08:09.599><c> me</c><00:08:09.680><c> another</c><00:08:10.000><c> few</c><00:08:10.160><c> hours</c><00:08:11.280><c> and</c><00:08:11.520><c> then</c>
+that took me another few hours and then
+ 
+that took me another few hours and then
+I<00:08:11.919><c> I</c><00:08:12.319><c> went</c><00:08:12.479><c> to</c><00:08:12.639><c> Marrakesh</c>
+I I went to Marrakesh
+ 
+I I went to Marrakesh
+for<00:08:14.400><c> a</c><00:08:14.479><c> birthday</c><00:08:14.800><c> party</c><00:08:15.360><c> and</c><00:08:16.560><c> there</c><00:08:16.800><c> was</c><00:08:16.879><c> like</c>
+for a birthday party and there was like
+ 
+for a birthday party and there was like
+the<00:08:17.199><c> internet</c><00:08:17.440><c> wasn't</c><00:08:17.680><c> that</c><00:08:17.840><c> good</c><00:08:18.080><c> you</c><00:08:18.160><c> know</c>
+the internet wasn't that good you know
+ 
+the internet wasn't that good you know
+WhatsApp<00:08:18.800><c> box</c><00:08:18.879><c> works</c><00:08:19.120><c> everywhere</c><00:08:19.440><c> because</c><00:08:19.759><c> I</c>
+WhatsApp box works everywhere because I
+ 
+WhatsApp box works everywhere because I
+don't<00:08:20.000><c> know</c><00:08:20.160><c> it's</c><00:08:20.319><c> just</c><00:08:20.479><c> like</c><00:08:20.879><c> text</c>
+don't know it's just like text
+ 
+don't know it's just like text
+&gt;&gt; so<00:08:22.000><c> I</c><00:08:22.160><c> used</c><00:08:22.319><c> it</c><00:08:22.479><c> a</c><00:08:22.560><c> lot</c><00:08:23.199><c> restaurant</c><00:08:23.599><c> what</c><00:08:23.759><c> does</c>
+&gt;&gt; so I used it a lot restaurant what does
+ 
+&gt;&gt; so I used it a lot restaurant what does
+this<00:08:24.080><c> mean</c><00:08:24.240><c> you</c><00:08:24.400><c> make</c><00:08:24.560><c> like</c><00:08:24.639><c> a</c><00:08:24.800><c> picture</c><00:08:25.039><c> and</c>
+this mean you make like a picture and
+ 
+this mean you make like a picture and
+like<00:08:25.360><c> translate</c><00:08:25.680><c> this</c><00:08:25.840><c> for</c><00:08:26.000><c> me</c><00:08:26.160><c> and</c><00:08:26.319><c> just</c><00:08:26.960><c> it</c>
+like translate this for me and just it
+ 
+like translate this for me and just it
+was<00:08:27.280><c> just</c><00:08:27.520><c> so</c><00:08:27.759><c> useful</c><00:08:28.479><c> and</c><00:08:28.639><c> it</c><00:08:28.879><c> was</c><00:08:28.960><c> also</c>
+was just so useful and it was also
+ 
+was just so useful and it was also
+really<00:08:29.360><c> nice</c><00:08:29.599><c> about</c><00:08:29.759><c> it</c><00:08:29.919><c> because</c><00:08:30.080><c> it</c><00:08:30.240><c> it</c><00:08:30.319><c> it</c>
+really nice about it because it it it
+ 
+really nice about it because it it it
+spoke<00:08:31.039><c> my</c><00:08:31.280><c> language</c><00:08:31.759><c> you</c><00:08:31.919><c> know</c><00:08:32.159><c> it</c><00:08:32.640><c> it</c><00:08:32.959><c> was</c><00:08:33.039><c> a</c>
+spoke my language you know it it was a
+ 
+spoke my language you know it it was a
+little<00:08:33.360><c> sassy</c><00:08:33.839><c> it</c><00:08:34.000><c> was</c><00:08:34.159><c> like</c><00:08:34.320><c> funny</c><00:08:35.120><c> it</c><00:08:35.360><c> was</c>
+little sassy it was like funny it was
+ 
+little sassy it was like funny it was
+like<00:08:35.599><c> really</c><00:08:35.839><c> pleasant</c><00:08:36.159><c> to</c><00:08:36.320><c> use</c><00:08:36.959><c> and</c><00:08:37.200><c> then</c><00:08:37.680><c> I</c>
+like really pleasant to use and then I
+ 
+like really pleasant to use and then I
+was<00:08:38.080><c> walking</c><00:08:38.320><c> and</c><00:08:38.479><c> just</c><00:08:38.719><c> like</c><00:08:38.880><c> sending</c><00:08:39.039><c> it</c><00:08:39.200><c> a</c>
+was walking and just like sending it a
+ 
+was walking and just like sending it a
+voice<00:08:39.519><c> message</c><00:08:40.959><c> and</c><00:08:41.200><c> I'm</c><00:08:41.440><c> like,</c><00:08:41.680><c> "Oh,</c><00:08:41.919><c> wait.</c>
+voice message and I'm like, "Oh, wait.
+ 
+voice message and I'm like, "Oh, wait.
+This<00:08:42.320><c> can't</c><00:08:42.479><c> work.</c><00:08:42.640><c> I</c><00:08:42.800><c> didn't</c><00:08:42.959><c> build</c><00:08:43.200><c> that."</c>
+This can't work. I didn't build that."
+ 
+This can't work. I didn't build that."
+&gt;&gt; Right.<00:08:44.080><c> Right.</c>
+&gt;&gt; Right. Right.
+ 
+&gt;&gt; Right. Right.
+&gt;&gt; And<00:08:45.760><c> you</c><00:08:45.920><c> saw</c><00:08:46.080><c> like</c><00:08:46.160><c> the</c><00:08:46.320><c> type</c><00:08:46.560><c> indicator.</c>
+&gt;&gt; And you saw like the type indicator.
+ 
+&gt;&gt; And you saw like the type indicator.
+It's<00:08:47.200><c> like</c><00:08:47.440><c> blinking,</c><00:08:47.839><c> blinking,</c><00:08:48.240><c> blinking.</c>
+It's like blinking, blinking, blinking.
+ 
+It's like blinking, blinking, blinking.
+10<00:08:48.800><c> seconds</c><00:08:48.959><c> later,</c><00:08:49.120><c> it</c><00:08:49.279><c> just</c><00:08:49.440><c> replied</c><00:08:49.680><c> to</c><00:08:49.839><c> me.</c>
+10 seconds later, it just replied to me.
+ 
+10 seconds later, it just replied to me.
+I'm<00:08:50.720><c> like,</c><00:08:51.519><c> "How</c><00:08:51.839><c> in</c><00:08:52.080><c> the</c><00:08:52.240><c> f</c><00:08:52.480><c> did</c><00:08:52.640><c> you</c><00:08:52.800><c> do</c>
+I'm like, "How in the f did you do
+ 
+I'm like, "How in the f did you do
+that?"<00:08:53.920><c> And</c><00:08:54.080><c> it</c><00:08:54.320><c> replied,</c><00:08:54.640><c> "Yeah,</c><00:08:55.120><c> the</c><00:08:55.279><c> med</c>
+that?" And it replied, "Yeah, the med
+ 
+that?" And it replied, "Yeah, the med
+did<00:08:55.839><c> the</c><00:08:56.000><c> following.</c><00:08:56.720><c> You</c><00:08:56.959><c> sent</c><00:08:57.120><c> me</c><00:08:57.279><c> a</c><00:08:57.440><c> text</c>
+did the following. You sent me a text
+ 
+did the following. You sent me a text
+message."<00:08:58.240><c> And</c><00:08:58.560><c> there</c><00:08:58.800><c> was</c><00:08:58.959><c> no</c><00:08:59.040><c> file</c><00:08:59.279><c> ending.</c>
+message." And there was no file ending.
+ 
+message." And there was no file ending.
+So<00:08:59.600><c> I</c><00:08:59.680><c> looked</c><00:08:59.839><c> at</c><00:08:59.920><c> the</c><00:09:00.000><c> header.</c><00:09:00.240><c> I</c><00:09:00.399><c> found</c><00:09:00.560><c> its</c>
+So I looked at the header. I found its
+ 
+So I looked at the header. I found its
+us.<00:09:01.519><c> So</c><00:09:01.680><c> I</c><00:09:01.839><c> used</c><00:09:02.000><c> ffmpe</c><00:09:02.640><c> to</c><00:09:02.800><c> convert</c><00:09:02.959><c> it</c><00:09:03.120><c> to</c>
+us. So I used ffmpe to convert it to
+ 
+us. So I used ffmpe to convert it to
+wave.<00:09:04.000><c> And</c><00:09:04.160><c> then</c><00:09:04.320><c> I</c><00:09:04.480><c> wanted</c><00:09:04.640><c> to</c><00:09:04.720><c> like</c>
+wave. And then I wanted to like
+ 
+wave. And then I wanted to like
+transcribe<00:09:05.279><c> it,</c><00:09:05.440><c> but</c><00:09:05.680><c> didn't</c><00:09:05.839><c> have</c><00:09:05.920><c> whisper</c>
+transcribe it, but didn't have whisper
+ 
+transcribe it, but didn't have whisper
+installed.<00:09:07.200><c> But</c><00:09:07.279><c> then</c><00:09:07.440><c> I</c><00:09:07.600><c> looked</c><00:09:07.760><c> around</c><00:09:07.920><c> and</c>
+installed. But then I looked around and
+ 
+installed. But then I looked around and
+I<00:09:08.240><c> found</c><00:09:08.320><c> this</c><00:09:08.480><c> openi</c><00:09:09.040><c> key</c><00:09:09.200><c> and</c><00:09:09.279><c> I</c><00:09:09.440><c> just</c><00:09:09.600><c> use</c>
+I found this openi key and I just use
+ 
+I found this openi key and I just use
+curl<00:09:10.000><c> to</c><00:09:10.160><c> send</c><00:09:10.320><c> it</c><00:09:10.399><c> to</c><00:09:10.640><c> openi</c><00:09:10.861><c> [laughter]</c>
+curl to send it to openi [laughter]
+ 
+curl to send it to openi [laughter]
+got<00:09:12.160><c> the</c><00:09:12.320><c> text</c><00:09:12.480><c> back</c><00:09:12.640><c> and</c><00:09:12.880><c> here</c><00:09:12.959><c> I</c><00:09:13.200><c> am</c><00:09:14.320><c> and</c><00:09:15.120><c> that</c>
+got the text back and here I am and that
+ 
+got the text back and here I am and that
+all<00:09:15.600><c> in</c><00:09:15.839><c> like</c><00:09:16.080><c> what</c><00:09:16.880><c> 9</c><00:09:17.120><c> seconds</c>
+all in like what 9 seconds
+ 
+all in like what 9 seconds
+&gt;&gt; and<00:09:18.160><c> you</c><00:09:18.320><c> didn't</c><00:09:18.800><c> build</c><00:09:19.120><c> or</c><00:09:19.440><c> anticipate</c><00:09:20.080><c> like</c>
+&gt;&gt; and you didn't build or anticipate like
+ 
+&gt;&gt; and you didn't build or anticipate like
+any<00:09:20.560><c> of</c><00:09:20.720><c> those</c><00:09:21.040><c> specific</c><00:09:21.440><c> things.</c>
+any of those specific things.
+ 
+any of those specific things.
+&gt;&gt; No,<00:09:22.080><c> it</c><00:09:22.640><c> you</c><00:09:22.800><c> know</c><00:09:23.040><c> turns</c><00:09:23.279><c> out</c><00:09:24.080><c> um</c><00:09:24.640><c> because</c>
+&gt;&gt; No, it you know turns out um because
+ 
+&gt;&gt; No, it you know turns out um because
+coding<00:09:25.440><c> models</c><00:09:25.760><c> got</c><00:09:26.000><c> so</c><00:09:26.240><c> good.</c><00:09:27.040><c> Coding</c><00:09:27.440><c> is</c>
+coding models got so good. Coding is
+ 
+coding models got so good. Coding is
+really<00:09:27.839><c> like</c><00:09:28.399><c> creative</c><00:09:28.880><c> problem</c><00:09:29.200><c> solving</c>
+really like creative problem solving
+ 
+really like creative problem solving
+that<00:09:30.399><c> maps</c><00:09:30.800><c> very</c><00:09:31.120><c> well</c><00:09:31.360><c> back</c><00:09:31.600><c> into</c><00:09:31.839><c> the</c><00:09:32.000><c> real</c>
+that maps very well back into the real
+ 
+that maps very well back into the real
+world.<00:09:32.640><c> I</c><00:09:32.800><c> think</c><00:09:32.959><c> I</c><00:09:33.120><c> think</c><00:09:33.279><c> there</c><00:09:33.440><c> there's</c><00:09:33.600><c> a</c>
+world. I think I think there there's a
+ 
+world. I think I think there there's a
+there's<00:09:33.920><c> a</c><00:09:34.080><c> huge</c><00:09:34.320><c> correlation.</c>
+there's a huge correlation.
+ 
+there's a huge correlation.
+they<00:09:36.640><c> need</c><00:09:36.800><c> to</c><00:09:36.959><c> be</c><00:09:37.040><c> really</c><00:09:37.360><c> good</c><00:09:37.600><c> at</c><00:09:37.920><c> creative</c>
+they need to be really good at creative
+ 
+they need to be really good at creative
+problem<00:09:38.640><c> solving</c><00:09:39.600><c> and</c><00:09:39.920><c> that's</c><00:09:40.240><c> a</c><00:09:40.480><c> skill</c>
+problem solving and that's a skill
+ 
+problem solving and that's a skill
+that's<00:09:41.200><c> an</c><00:09:41.360><c> abstract</c><00:09:41.760><c> skill</c><00:09:42.000><c> you</c><00:09:42.160><c> can</c><00:09:42.399><c> apply</c>
+that's an abstract skill you can apply
+ 
+that's an abstract skill you can apply
+to<00:09:42.800><c> code</c><00:09:43.120><c> but</c><00:09:43.279><c> like</c><00:09:43.440><c> to</c><00:09:43.600><c> any</c><00:09:43.839><c> real</c><00:09:44.080><c> world</c><00:09:44.320><c> task.</c>
+to code but like to any real world task.
+ 
+to code but like to any real world task.
+So<00:09:44.880><c> the</c><00:09:45.120><c> the</c><00:09:45.519><c> model</c><00:09:45.839><c> had</c><00:09:46.000><c> a</c><00:09:46.720><c> oh</c><00:09:47.040><c> surprise</c>
+So the the model had a oh surprise
+ 
+So the the model had a oh surprise
+there's<00:09:47.680><c> like</c><00:09:47.760><c> a</c><00:09:47.920><c> magical</c><00:09:48.240><c> file.</c><00:09:48.399><c> I</c><00:09:48.560><c> don't</c>
+there's like a magical file. I don't
+ 
+there's like a magical file. I don't
+know<00:09:48.720><c> what</c><00:09:48.880><c> it</c><00:09:48.959><c> is.</c><00:09:49.120><c> I</c><00:09:49.279><c> need</c><00:09:49.440><c> to</c><00:09:49.519><c> solve</c><00:09:49.839><c> this</c>
+know what it is. I need to solve this
+ 
+know what it is. I need to solve this
+and<00:09:50.560><c> it</c><00:09:50.720><c> did</c><00:09:50.880><c> its</c><00:09:51.040><c> best</c><00:09:51.279><c> and</c><00:09:51.440><c> solved</c><00:09:51.600><c> that.</c><00:09:52.000><c> And</c>
+and it did its best and solved that. And
+ 
+and it did its best and solved that. And
+it<00:09:52.320><c> was</c><00:09:52.399><c> even</c><00:09:52.560><c> that</c><00:09:52.800><c> clever</c><00:09:52.959><c> that</c><00:09:53.200><c> it</c><00:09:53.839><c> it</c><00:09:54.240><c> chose</c>
+it was even that clever that it it chose
+ 
+it was even that clever that it it chose
+not<00:09:54.800><c> to</c><00:09:54.959><c> install</c><00:09:56.000><c> the</c><00:09:56.320><c> local</c><00:09:56.959><c> whisper</c><00:09:57.600><c> because</c>
+not to install the local whisper because
+ 
+not to install the local whisper because
+it<00:09:58.160><c> knows</c><00:09:58.399><c> that</c><00:09:58.560><c> that</c><00:09:58.800><c> would</c><00:09:58.959><c> require</c>
+it knows that that would require
+ 
+it knows that that would require
+downloading<00:09:59.680><c> a</c><00:09:59.920><c> model</c><00:10:00.640><c> which</c><00:10:00.959><c> would</c><00:10:01.360><c> take</c>
+downloading a model which would take
+ 
+downloading a model which would take
+probably<00:10:01.920><c> a</c><00:10:02.160><c> few</c><00:10:02.320><c> minutes</c><00:10:02.640><c> and</c><00:10:02.880><c> I'm</c><00:10:03.120><c> like</c>
+probably a few minutes and I'm like
+ 
+probably a few minutes and I'm like
+impatient,<00:10:04.399><c> you</c><00:10:04.560><c> know.</c><00:10:04.800><c> So</c><00:10:05.600><c> it</c><00:10:05.839><c> it</c><00:10:06.240><c> really</c>
+impatient, you know. So it it really
+ 
+impatient, you know. So it it really
+took<00:10:06.800><c> the</c><00:10:07.040><c> most</c><00:10:08.080><c> uh</c><00:10:08.240><c> intelligent</c><00:10:08.880><c> approach</c>
+took the most uh intelligent approach
+ 
+took the most uh intelligent approach
+and<00:10:10.320><c> that</c><00:10:10.560><c> was</c><00:10:10.640><c> kind</c><00:10:10.720><c> of</c><00:10:10.800><c> like</c><00:10:10.959><c> the</c><00:10:11.120><c> moment</c>
+and that was kind of like the moment
+ 
+and that was kind of like the moment
+where<00:10:11.440><c> I'm</c><00:10:11.600><c> like,</c><00:10:12.240><c> "Holy</c>
+where I'm like, "Holy
+ 
+where I'm like, "Holy
+fuck."<00:10:14.640><c> Yeah.</c><00:10:16.079><c> Uh</c><00:10:16.480><c> that</c><00:10:16.720><c> was</c><00:10:16.800><c> where</c><00:10:17.040><c> I</c><00:10:17.200><c> got</c>
+fuck." Yeah. Uh that was where I got
+ 
+fuck." Yeah. Uh that was where I got
+hooked.
+hooked.
+ 
+hooked.
+&gt;&gt; YC's<00:10:18.800><c> Next</c><00:10:19.040><c> Batch</c><00:10:19.360><c> is</c><00:10:19.600><c> now</c><00:10:20.079><c> taking</c>
+&gt;&gt; YC's Next Batch is now taking
+ 
+&gt;&gt; YC's Next Batch is now taking
+applications.<00:10:21.360><c> Got</c><00:10:21.600><c> a</c><00:10:21.760><c> startup</c><00:10:22.160><c> in</c><00:10:22.399><c> you?</c>
+applications. Got a startup in you?
+ 
+applications. Got a startup in you?
+Apply<00:10:23.120><c> at</c><00:10:23.360><c> y</c><00:10:23.600><c> combinator.com/apply.</c>
+Apply at y combinator.com/apply.
+ 
+Apply at y combinator.com/apply.
+It's<00:10:26.000><c> never</c><00:10:26.240><c> too</c><00:10:26.560><c> early</c><00:10:26.880><c> and</c><00:10:27.200><c> filling</c><00:10:27.600><c> out</c><00:10:27.839><c> the</c>
+It's never too early and filling out the
+ 
+It's never too early and filling out the
+app<00:10:28.399><c> will</c><00:10:28.720><c> level</c><00:10:29.040><c> up</c><00:10:29.200><c> your</c><00:10:29.440><c> idea.</c><00:10:30.117><c> [music]</c>
+app will level up your idea. [music]
+ 
+app will level up your idea. [music]
+Okay,<00:10:30.720><c> back</c><00:10:30.959><c> to</c><00:10:31.120><c> the</c><00:10:31.360><c> video.</c><00:10:32.079><c> And</c><00:10:32.320><c> so</c><00:10:32.480><c> when</c>
+Okay, back to the video. And so when
+ 
+Okay, back to the video. And so when
+computers<00:10:33.440><c> can</c><00:10:33.600><c> just</c><00:10:33.760><c> do</c><00:10:33.839><c> all</c><00:10:33.920><c> these</c><00:10:34.160><c> things</c>
+computers can just do all these things
+ 
+computers can just do all these things
+that<00:10:34.480><c> you</c><00:10:34.640><c> didn't</c><00:10:34.720><c> even</c><00:10:34.880><c> anticipate.</c><00:10:35.440><c> You</c>
+that you didn't even anticipate. You
+ 
+that you didn't even anticipate. You
+didn't<00:10:35.760><c> build</c><00:10:35.920><c> an</c><00:10:36.160><c> app</c><00:10:36.320><c> to</c><00:10:36.480><c> do</c><00:10:36.640><c> that</c><00:10:36.959><c> exact</c>
+didn't build an app to do that exact
+ 
+didn't build an app to do that exact
+thing,<00:10:38.480><c> are</c><00:10:38.640><c> apps</c><00:10:38.959><c> just</c><00:10:39.120><c> going</c><00:10:39.279><c> to</c><00:10:39.440><c> go</c><00:10:39.680><c> away.</c>
+thing, are apps just going to go away.
+ 
+thing, are apps just going to go away.
+&gt;&gt; Uh<00:10:42.079><c> I</c><00:10:42.240><c> think</c><00:10:42.399><c> 80%</c><00:10:42.800><c> of</c><00:10:42.959><c> them</c><00:10:43.120><c> are</c><00:10:43.279><c> going</c><00:10:43.440><c> away.</c>
+&gt;&gt; Uh I think 80% of them are going away.
+ 
+&gt;&gt; Uh I think 80% of them are going away.
+Why<00:10:44.720><c> do</c><00:10:44.880><c> I</c><00:10:45.120><c> need</c><00:10:45.600><c> My</c><00:10:45.839><c> Fitness</c><00:10:46.160><c> Pal?</c><00:10:47.279><c> Like</c><00:10:47.519><c> my</c>
+Why do I need My Fitness Pal? Like my
+ 
+Why do I need My Fitness Pal? Like my
+agent<00:10:48.079><c> already</c><00:10:48.399><c> knows</c><00:10:48.640><c> that</c><00:10:48.800><c> I'm</c><00:10:49.040><c> making</c><00:10:49.279><c> bad</c>
+agent already knows that I'm making bad
+ 
+agent already knows that I'm making bad
+decisions.<00:10:49.920><c> I'm</c><00:10:50.160><c> at</c><00:10:50.800><c> I</c><00:10:50.959><c> don't</c><00:10:51.040><c> know</c><00:10:52.480><c> uh</c>
+decisions. I'm at I don't know uh
+ 
+decisions. I'm at I don't know uh
+Smashburg<00:10:53.519><c> or</c><00:10:53.760><c> something</c><00:10:54.800><c> and</c><00:10:55.519><c> it</c><00:10:55.760><c> will</c>
+Smashburg or something and it will
+ 
+Smashburg or something and it will
+already<00:10:56.560><c> assume</c><00:10:57.040><c> that</c><00:10:57.279><c> I</c><00:10:57.440><c> eat</c><00:10:57.680><c> what</c><00:10:57.839><c> I</c><00:10:57.920><c> like</c><00:10:58.079><c> to</c>
+already assume that I eat what I like to
+ 
+already assume that I eat what I like to
+eat.<00:10:59.040><c> If</c><00:10:59.200><c> I</c><00:10:59.360><c> don't</c><00:10:59.519><c> make</c><00:10:59.680><c> a</c><00:10:59.839><c> comment,</c><00:11:00.079><c> it</c><00:11:00.240><c> will</c>
+eat. If I don't make a comment, it will
+ 
+eat. If I don't make a comment, it will
+just<00:11:00.560><c> like</c><00:11:00.800><c> automatically</c><00:11:01.440><c> track</c><00:11:01.680><c> it</c><00:11:01.760><c> or</c><00:11:02.000><c> I</c>
+just like automatically track it or I
+ 
+just like automatically track it or I
+make<00:11:02.240><c> a</c><00:11:02.399><c> picture</c><00:11:02.720><c> and</c><00:11:02.959><c> it</c><00:11:03.040><c> will</c><00:11:03.200><c> just</c><00:11:03.360><c> store</c><00:11:03.519><c> it</c>
+make a picture and it will just store it
+ 
+make a picture and it will just store it
+somewhere.<00:11:04.000><c> I</c><00:11:04.079><c> don't</c><00:11:04.160><c> even</c><00:11:04.320><c> need</c><00:11:04.480><c> to</c><00:11:04.560><c> care.</c>
+somewhere. I don't even need to care.
+ 
+somewhere. I don't even need to care.
+Right.<00:11:05.680><c> And</c><00:11:05.839><c> then</c><00:11:06.000><c> my</c><00:11:06.399><c> maybe</c><00:11:06.720><c> it</c><00:11:07.360><c> it</c><00:11:07.920><c> improves</c>
+Right. And then my maybe it it improves
+ 
+Right. And then my maybe it it improves
+my<00:11:09.200><c> my</c><00:11:09.519><c> gym</c><00:11:09.839><c> schedule</c><00:11:10.399><c> like</c><00:11:10.560><c> adds</c><00:11:10.880><c> a</c><00:11:10.959><c> little</c>
+my my gym schedule like adds a little
+ 
+my my gym schedule like adds a little
+bit<00:11:11.200><c> more</c><00:11:11.360><c> cardio</c><00:11:11.680><c> in</c><00:11:11.839><c> it.</c><00:11:12.000><c> I</c><00:11:12.160><c> don't</c><00:11:12.320><c> need</c><00:11:12.399><c> my</c>
+bit more cardio in it. I don't need my
+ 
+bit more cardio in it. I don't need my
+my<00:11:13.040><c> fitness</c><00:11:13.360><c> app</c><00:11:13.680><c> because</c><00:11:13.839><c> it</c><00:11:14.160><c> just</c><00:11:14.399><c> it</c><00:11:14.720><c> just</c>
+my fitness app because it just it just
+ 
+my fitness app because it just it just
+does<00:11:15.120><c> the</c><00:11:15.360><c> fitness</c><00:11:15.600><c> planning</c><00:11:16.000><c> for</c><00:11:16.160><c> me.</c><00:11:17.200><c> Uh</c><00:11:17.680><c> why</c>
+does the fitness planning for me. Uh why
+ 
+does the fitness planning for me. Uh why
+do<00:11:17.920><c> I</c><00:11:18.000><c> need</c><00:11:18.079><c> a</c><00:11:18.240><c> to-do</c><00:11:18.480><c> app?</c><00:11:18.720><c> I</c><00:11:18.800><c> just</c><00:11:18.959><c> tell</c><00:11:19.040><c> it,</c>
+do I need a to-do app? I just tell it,
+ 
+do I need a to-do app? I just tell it,
+hey,<00:11:19.519><c> remind</c><00:11:19.760><c> me</c><00:11:19.839><c> of</c><00:11:20.000><c> this</c><00:11:20.160><c> and</c><00:11:20.320><c> this</c><00:11:20.480><c> and</c><00:11:20.720><c> then</c>
+hey, remind me of this and this and then
+ 
+hey, remind me of this and this and then
+next<00:11:21.040><c> day</c><00:11:21.200><c> it</c><00:11:21.279><c> will</c><00:11:21.519><c> just</c><00:11:21.600><c> remind</c><00:11:21.760><c> me</c><00:11:21.839><c> of</c><00:11:21.920><c> this</c>
+next day it will just remind me of this
+ 
+next day it will just remind me of this
+and<00:11:22.160><c> this.</c><00:11:22.320><c> Do</c><00:11:22.480><c> I</c><00:11:22.560><c> care</c><00:11:22.720><c> where</c><00:11:22.880><c> it's</c><00:11:23.040><c> stored?</c>
+and this. Do I care where it's stored?
+ 
+and this. Do I care where it's stored?
+No,<00:11:23.519><c> it</c><00:11:23.680><c> just</c><00:11:23.839><c> does</c><00:11:24.000><c> its</c><00:11:24.240><c> thing.</c><00:11:25.040><c> So</c><00:11:25.200><c> there's</c><00:11:25.440><c> a</c>
+No, it just does its thing. So there's a
+ 
+No, it just does its thing. So there's a
+every<00:11:26.800><c> app</c><00:11:27.040><c> that</c><00:11:27.360><c> basically</c><00:11:27.839><c> just</c><00:11:28.800><c> manages</c>
+every app that basically just manages
+ 
+every app that basically just manages
+data<00:11:31.600><c> could</c><00:11:31.839><c> be</c><00:11:32.000><c> managed</c><00:11:32.320><c> in</c><00:11:32.480><c> a</c><00:11:32.640><c> better</c><00:11:32.880><c> way</c><00:11:33.200><c> in</c>
+data could be managed in a better way in
+ 
+data could be managed in a better way in
+a<00:11:33.600><c> in</c><00:11:33.760><c> a</c><00:11:33.920><c> more</c><00:11:34.079><c> in</c><00:11:34.240><c> a</c><00:11:34.399><c> more</c><00:11:34.640><c> natural</c><00:11:35.120><c> way</c><00:11:35.680><c> by</c>
+a in a more in a more natural way by
+ 
+a in a more in a more natural way by
+agents.
+agents.
+ 
+agents.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; Only<00:11:37.200><c> the</c><00:11:37.360><c> apps</c><00:11:37.600><c> that</c><00:11:37.760><c> actually</c><00:11:38.000><c> have</c><00:11:38.160><c> sensors</c>
+&gt;&gt; Only the apps that actually have sensors
+ 
+&gt;&gt; Only the apps that actually have sensors
+maybe<00:11:39.200><c> they</c><00:11:39.440><c> survive</c>
+maybe they survive
+ 
+maybe they survive
+&gt;&gt; and<00:11:40.480><c> so</c><00:11:40.640><c> if</c><00:11:41.040><c> you</c><00:11:41.200><c> know</c><00:11:41.760><c> most</c><00:11:42.079><c> apps</c><00:11:42.399><c> are</c><00:11:42.560><c> going</c>
+&gt;&gt; and so if you know most apps are going
+ 
+&gt;&gt; and so if you know most apps are going
+to<00:11:42.720><c> go</c><00:11:42.880><c> away</c><00:11:43.600><c> in</c><00:11:43.839><c> that</c><00:11:44.079><c> scenario</c><00:11:45.200><c> um</c><00:11:45.440><c> are</c><00:11:45.760><c> the</c>
+to go away in that scenario um are the
+ 
+to go away in that scenario um are the
+models<00:11:46.720><c> the</c><00:11:47.040><c> only</c><00:11:47.279><c> remaining</c><00:11:47.760><c> sort</c><00:11:47.920><c> of</c><00:11:48.079><c> apps.</c>
+models the only remaining sort of apps.
+ 
+models the only remaining sort of apps.
+Not<00:11:48.880><c> everything</c><00:11:49.200><c> will</c><00:11:49.440><c> go</c><00:11:49.519><c> away,</c>
+Not everything will go away,
+ 
+Not everything will go away,
+but<00:11:51.440><c> yeah,</c><00:11:51.680><c> I</c><00:11:51.839><c> think</c><00:11:51.993><c> [clears throat]</c><00:11:52.079><c> that</c>
+but yeah, I think [clears throat] that
+ 
+but yeah, I think [clears throat] that
+the<00:11:52.399><c> the</c><00:11:52.959><c> large</c><00:11:53.200><c> model</c><00:11:53.519><c> companies</c><00:11:53.920><c> have</c><00:11:54.079><c> some</c>
+the the large model companies have some
+ 
+the the large model companies have some
+big<00:11:54.560><c> mode</c><00:11:55.268><c> [sighs]</c>
+big mode [sighs]
+ 
+big mode [sighs]
+because<00:11:56.160><c> they</c><00:11:56.480><c> ultimately</c><00:11:57.600><c> they</c><00:11:57.839><c> give</c><00:11:58.000><c> the</c>
+because they ultimately they give the
+ 
+because they ultimately they give the
+token<00:11:59.279><c> and</c><00:11:59.600><c> turns</c><00:11:59.839><c> out</c><00:12:01.040><c> one</c><00:12:01.279><c> of</c><00:12:01.360><c> the</c>
+token and turns out one of the
+ 
+token and turns out one of the
+complaints<00:12:01.839><c> was</c><00:12:02.160><c> that</c><00:12:02.959><c> people</c><00:12:03.279><c> use</c><00:12:03.440><c> so</c><00:12:03.680><c> much</c>
+complaints was that people use so much
+ 
+complaints was that people use so much
+token.<00:12:04.480><c> No,</c><00:12:04.720><c> you</c><00:12:04.959><c> just</c><00:12:05.200><c> really</c><00:12:05.440><c> love</c><00:12:05.760><c> using</c>
+token. No, you just really love using
+ 
+token. No, you just really love using
+it.<00:12:06.320><c> That's</c><00:12:06.560><c> why</c><00:12:06.720><c> you</c><00:12:07.120><c> you</c><00:12:07.440><c> use</c><00:12:07.600><c> this</c><00:12:07.839><c> thing</c><00:12:08.000><c> so</c>
+it. That's why you you use this thing so
+ 
+it. That's why you you use this thing so
+much<00:12:08.399><c> because</c><00:12:08.639><c> that's</c><00:12:08.880><c> why</c><00:12:09.040><c> we</c><00:12:09.279><c> burn</c><00:12:09.440><c> the</c>
+much because that's why we burn the
+ 
+much because that's why we burn the
+token.
+token.
+ 
+token.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; Um<00:12:11.519><c> it's</c><00:12:11.680><c> like</c><00:12:11.839><c> is</c><00:12:11.920><c> it</c><00:12:12.079><c> my</c><00:12:12.240><c> fault</c><00:12:12.320><c> that</c><00:12:12.480><c> I</c><00:12:12.639><c> make</c>
+&gt;&gt; Um it's like is it my fault that I make
+ 
+&gt;&gt; Um it's like is it my fault that I make
+something<00:12:12.959><c> that's</c><00:12:13.200><c> so</c><00:12:13.360><c> popular?</c><00:12:14.639><c> And</c><00:12:14.880><c> so</c><00:12:15.279><c> you</c>
+something that's so popular? And so you
+ 
+something that's so popular? And so you
+know<00:12:15.519><c> like</c><00:12:15.760><c> all</c><00:12:15.920><c> the</c><00:12:16.079><c> the</c><00:12:16.480><c> models</c><00:12:16.880><c> they're</c>
+know like all the the models they're
+ 
+know like all the the models they're
+kind<00:12:17.200><c> of</c><00:12:17.279><c> like</c><00:12:17.360><c> leaprogging</c><00:12:18.079><c> each</c><00:12:18.240><c> other</c>
+kind of like leaprogging each other
+ 
+kind of like leaprogging each other
+constantly<00:12:19.360><c> and</c>
+constantly and
+ 
+constantly and
+&gt;&gt; and<00:12:20.800><c> you</c><00:12:20.959><c> know</c><00:12:21.120><c> maybe</c><00:12:21.360><c> they're</c><00:12:21.760><c> also</c><00:12:22.079><c> getting</c>
+&gt;&gt; and you know maybe they're also getting
+ 
+&gt;&gt; and you know maybe they're also getting
+commoditized.<00:12:23.200><c> So</c><00:12:23.360><c> if</c><00:12:23.519><c> apps</c><00:12:23.839><c> are</c><00:12:23.920><c> going</c><00:12:24.000><c> to</c><00:12:24.079><c> go</c>
+commoditized. So if apps are going to go
+ 
+commoditized. So if apps are going to go
+away<00:12:24.480><c> models</c><00:12:24.800><c> are</c><00:12:24.959><c> going</c><00:12:25.040><c> to</c><00:12:25.120><c> get</c>
+away models are going to get
+ 
+away models are going to get
+commoditized<00:12:25.760><c> or</c><00:12:25.920><c> at</c><00:12:26.000><c> least</c><00:12:26.880><c> uh</c><00:12:27.040><c> you</c><00:12:27.200><c> know</c><00:12:27.279><c> the</c>
+commoditized or at least uh you know the
+ 
+commoditized or at least uh you know the
+lobster<00:12:28.079><c> can</c><00:12:28.720><c> like</c><00:12:28.959><c> the</c><00:12:29.120><c> brain</c><00:12:29.360><c> is</c><00:12:29.519><c> is</c><00:12:29.600><c> is</c>
+lobster can like the brain is is is
+ 
+lobster can like the brain is is is
+swappable<00:12:30.560><c> out.</c><00:12:31.120><c> What's</c><00:12:31.360><c> the</c><00:12:31.680><c> thing</c><00:12:31.920><c> that</c>
+swappable out. What's the thing that
+ 
+swappable out. What's the thing that
+remains?<00:12:32.880><c> What's</c><00:12:33.120><c> where's</c><00:12:33.440><c> the</c><00:12:33.600><c> value?</c><00:12:33.920><c> Is</c><00:12:34.079><c> it</c>
+remains? What's where's the value? Is it
+ 
+remains? What's where's the value? Is it
+the<00:12:34.399><c> store</c><00:12:34.720><c> of</c><00:12:35.040><c> memory?</c><00:12:36.000><c> Is</c><00:12:36.160><c> it</c><00:12:37.200><c> um</c><00:12:37.839><c> the</c>
+the store of memory? Is it um the
+ 
+the store of memory? Is it um the
+hardness<00:12:38.720><c> that's</c><00:12:39.040><c> valuable?</c><00:12:39.839><c> What</c><00:12:40.000><c> is</c><00:12:40.399><c> what</c>
+hardness that's valuable? What is what
+ 
+hardness that's valuable? What is what
+remains?<00:12:42.079><c> First</c><00:12:42.320><c> of</c><00:12:42.399><c> all,</c><00:12:42.639><c> I</c><00:12:42.800><c> don't</c><00:12:43.040><c> think</c><00:12:43.200><c> the</c>
+remains? First of all, I don't think the
+ 
+remains? First of all, I don't think the
+the<00:12:45.200><c> model</c><00:12:45.519><c> companies</c><00:12:45.839><c> always</c><00:12:46.079><c> have</c><00:12:46.240><c> a</c><00:12:46.399><c> mode</c>
+the model companies always have a mode
+ 
+the model companies always have a mode
+and<00:12:47.440><c> because</c><00:12:47.680><c> you</c><00:12:47.839><c> see</c><00:12:48.000><c> this</c><00:12:48.240><c> already</c><00:12:49.120><c> a</c><00:12:49.360><c> new</c>
+and because you see this already a new
+ 
+and because you see this already a new
+model<00:12:49.839><c> comes</c><00:12:50.079><c> out,</c><00:12:50.560><c> people</c><00:12:50.800><c> are</c><00:12:50.959><c> like,</c><00:12:51.040><c> "Oh</c><00:12:51.279><c> my</c>
+model comes out, people are like, "Oh my
+ 
+model comes out, people are like, "Oh my
+god,<00:12:51.680><c> this</c><00:12:51.839><c> is</c><00:12:52.000><c> so</c><00:12:52.160><c> good."</c>
+god, this is so good."
+ 
+god, this is so good."
+&gt;&gt; And<00:12:53.040><c> then</c><00:12:53.120><c> like</c><00:12:53.279><c> a</c><00:12:53.440><c> month</c><00:12:53.600><c> later,</c><00:12:54.240><c> uh,</c><00:12:54.399><c> it</c>
+&gt;&gt; And then like a month later, uh, it
+ 
+&gt;&gt; And then like a month later, uh, it
+degraded.<00:12:55.200><c> It's</c><00:12:55.360><c> not</c><00:12:55.519><c> good</c><00:12:55.680><c> anymore.</c><00:12:56.079><c> They</c>
+degraded. It's not good anymore. They
+ 
+degraded. It's not good anymore. They
+like<00:12:56.560><c> quanticized</c><00:12:57.200><c> it.</c><00:12:57.440><c> No,</c><00:12:57.839><c> they</c><00:12:58.079><c> didn't</c><00:12:58.320><c> do</c>
+like quanticized it. No, they didn't do
+ 
+like quanticized it. No, they didn't do
+anything.<00:12:58.880><c> You</c><00:12:59.120><c> just</c><00:12:59.760><c> adapted</c><00:13:00.320><c> to</c><00:13:00.560><c> the</c><00:13:00.720><c> new</c>
+anything. You just adapted to the new
+ 
+anything. You just adapted to the new
+standard<00:13:01.360><c> and</c><00:13:01.600><c> now</c><00:13:01.760><c> your</c><00:13:02.000><c> expectations</c><00:13:02.639><c> went</c>
+standard and now your expectations went
+ 
+standard and now your expectations went
+up,<00:13:03.839><c> but</c><00:13:04.079><c> the</c><00:13:04.320><c> model</c><00:13:04.480><c> is</c><00:13:04.639><c> still</c><00:13:04.800><c> the</c><00:13:04.959><c> average.</c>
+up, but the model is still the average.
+ 
+up, but the model is still the average.
+So<00:13:05.680><c> I</c><00:13:05.839><c> think</c><00:13:06.320><c> for</c><00:13:06.639><c> quite</c><00:13:06.800><c> a</c><00:13:07.040><c> while,</c>
+So I think for quite a while,
+ 
+So I think for quite a while,
+every<00:13:09.680><c> time</c><00:13:09.839><c> a</c><00:13:10.000><c> new</c><00:13:10.160><c> model</c><00:13:10.399><c> releases,</c><00:13:10.639><c> I</c><00:13:10.800><c> hear</c>
+every time a new model releases, I hear
+ 
+every time a new model releases, I hear
+the<00:13:11.120><c> same.</c><00:13:11.360><c> people</c><00:13:11.600><c> love</c><00:13:11.839><c> it</c><00:13:12.399><c> and</c><00:13:12.639><c> then</c><00:13:13.040><c> it's</c>
+the same. people love it and then it's
+ 
+the same. people love it and then it's
+the<00:13:13.519><c> standard</c><00:13:14.160><c> and</c><00:13:14.399><c> then</c><00:13:14.800><c> what's</c><00:13:15.120><c> done</c><00:13:15.360><c> there</c>
+the standard and then what's done there
+ 
+the standard and then what's done there
+you<00:13:15.680><c> don't</c><00:13:15.760><c> even</c><00:13:15.920><c> want</c><00:13:16.000><c> to</c><00:13:16.160><c> think</c><00:13:16.240><c> about</c><00:13:16.399><c> it</c>
+you don't even want to think about it
+ 
+you don't even want to think about it
+anymore.<00:13:17.360><c> So,</c><00:13:17.680><c> so</c><00:13:17.839><c> we</c><00:13:18.079><c> have</c><00:13:18.160><c> like</c><00:13:18.399><c> open</c><00:13:18.639><c> source</c>
+anymore. So, so we have like open source
+ 
+anymore. So, so we have like open source
+stuff<00:13:19.200><c> that's</c><00:13:19.519><c> as</c><00:13:19.760><c> good</c><00:13:19.839><c> as</c><00:13:20.160><c> the</c><00:13:20.399><c> current</c>
+stuff that's as good as the current
+ 
+stuff that's as good as the current
+models<00:13:20.880><c> from</c><00:13:21.040><c> a</c><00:13:21.200><c> year</c><00:13:21.279><c> ago.</c><00:13:22.079><c> Everybody's</c>
+models from a year ago. Everybody's
+ 
+models from a year ago. Everybody's
+hating<00:13:22.800><c> it,</c><00:13:23.040><c> complaining,</c><00:13:23.440><c> oh</c><00:13:23.680><c> this</c><00:13:23.839><c> is</c><00:13:24.000><c> not</c>
+hating it, complaining, oh this is not
+ 
+hating it, complaining, oh this is not
+good,<00:13:24.320><c> this</c><00:13:24.399><c> is</c><00:13:24.560><c> not</c><00:13:24.720><c> funny</c><00:13:25.360><c> yet</c><00:13:25.680><c> this</c><00:13:25.839><c> was</c>
+good, this is not funny yet this was
+ 
+good, this is not funny yet this was
+what<00:13:26.160><c> we</c><00:13:26.320><c> had</c><00:13:26.560><c> and</c><00:13:26.800><c> like</c><00:13:26.959><c> in</c><00:13:27.120><c> a</c><00:13:27.279><c> year</c><00:13:27.440><c> we'll</c>
+what we had and like in a year we'll
+ 
+what we had and like in a year we'll
+have<00:13:27.839><c> this</c><00:13:28.160><c> open</c><00:13:28.399><c> source</c><00:13:28.959><c> and</c><00:13:29.279><c> then</c><00:13:29.680><c> like</c>
+have this open source and then like
+ 
+have this open source and then like
+we'll<00:13:30.079><c> complain</c><00:13:30.320><c> about</c><00:13:30.560><c> this</c><00:13:30.720><c> because</c><00:13:30.959><c> we</c>
+we'll complain about this because we
+ 
+we'll complain about this because we
+used<00:13:31.360><c> to</c>
+used to
+ 
+used to
+ah<00:13:33.760><c> for</c><00:13:34.160><c> the</c><00:13:34.399><c> foreseeable</c><00:13:34.959><c> future</c><00:13:36.240><c> the</c><00:13:36.480><c> big</c>
+ah for the foreseeable future the big
+ 
+ah for the foreseeable future the big
+companies<00:13:37.040><c> still</c><00:13:37.279><c> have</c><00:13:37.440><c> mode</c><00:13:37.920><c> harness</c><00:13:38.320><c> wise</c>
+companies still have mode harness wise
+ 
+companies still have mode harness wise
+it's<00:13:38.800><c> going</c><00:13:38.880><c> to</c><00:13:38.959><c> be</c><00:13:39.120><c> interesting</c><00:13:39.920><c> because</c>
+it's going to be interesting because
+ 
+it's going to be interesting because
+every<00:13:42.079><c> company</c><00:13:42.480><c> kind</c><00:13:42.639><c> of</c><00:13:42.800><c> has</c><00:13:42.959><c> their</c><00:13:43.200><c> own</c>
+every company kind of has their own
+ 
+every company kind of has their own
+their<00:13:44.240><c> own</c><00:13:44.399><c> silo</c><00:13:44.880><c> right</c><00:13:45.120><c> you</c><00:13:45.279><c> you</c><00:13:45.600><c> there's</c><00:13:45.839><c> no</c>
+their own silo right you you there's no
+ 
+their own silo right you you there's no
+way<00:13:46.959><c> maybe</c><00:13:47.200><c> there</c><00:13:47.360><c> is</c><00:13:47.440><c> for</c><00:13:47.680><c> Europeans</c><00:13:48.800><c> to</c>
+way maybe there is for Europeans to
+ 
+way maybe there is for Europeans to
+actually<00:13:49.279><c> get</c><00:13:49.360><c> the</c><00:13:49.600><c> memories</c><00:13:49.839><c> out</c><00:13:50.000><c> of</c>
+actually get the memories out of
+ 
+actually get the memories out of
+&gt;&gt; chap
+&gt;&gt; chap
+ 
+&gt;&gt; chap
+I<00:13:51.920><c> don't</c><00:13:52.079><c> I'm</c><00:13:52.240><c> not</c><00:13:52.399><c> aware</c><00:13:53.760><c> either.</c><00:13:54.160><c> There's</c><00:13:54.320><c> no</c>
+I don't I'm not aware either. There's no
+ 
+I don't I'm not aware either. There's no
+there's<00:13:55.040><c> definitely</c><00:13:55.360><c> there's</c><00:13:55.600><c> no</c><00:13:55.760><c> way</c><00:13:55.920><c> for</c><00:13:56.079><c> a</c>
+there's definitely there's no way for a
+ 
+there's definitely there's no way for a
+different<00:13:56.639><c> company</c><00:13:57.279><c> to</c><00:13:57.440><c> get</c><00:13:57.600><c> your</c><00:13:57.839><c> memories</c>
+different company to get your memories
+ 
+different company to get your memories
+out.<00:13:58.720><c> So</c><00:13:58.959><c> if</c><00:13:59.040><c> if</c><00:13:59.120><c> if</c><00:14:00.079><c> I</c><00:14:00.240><c> was</c><00:14:00.399><c> like</c><00:14:00.560><c> a</c><00:14:00.800><c> company</c>
+out. So if if if I was like a company
+ 
+out. So if if if I was like a company
+who<00:14:01.279><c> like</c><00:14:01.519><c> provides</c><00:14:01.839><c> chat</c><00:14:02.240><c> services,</c>
+who like provides chat services,
+ 
+who like provides chat services,
+you<00:14:04.720><c> could</c><00:14:04.880><c> use</c><00:14:05.040><c> me</c><00:14:05.279><c> but</c><00:14:05.440><c> then</c><00:14:05.600><c> I</c><00:14:05.760><c> couldn't</c>
+you could use me but then I couldn't
+ 
+you could use me but then I couldn't
+access<00:14:06.240><c> the</c><00:14:06.480><c> memories.</c><00:14:06.959><c> So</c><00:14:07.120><c> like</c><00:14:07.279><c> the</c>
+access the memories. So like the
+ 
+access the memories. So like the
+companies<00:14:07.920><c> try</c><00:14:08.079><c> to</c><00:14:08.240><c> like</c>
+companies try to like
+ 
+companies try to like
+&gt;&gt; bound<00:14:09.600><c> you</c><00:14:09.760><c> to</c><00:14:09.839><c> their</c><00:14:10.079><c> data</c><00:14:10.320><c> silo.</c><00:14:11.120><c> And</c><00:14:11.360><c> the</c>
+&gt;&gt; bound you to their data silo. And the
+ 
+&gt;&gt; bound you to their data silo. And the
+beauty<00:14:11.760><c> of</c><00:14:11.920><c> open</c><00:14:12.240><c> claw</c><00:14:12.480><c> is</c><00:14:12.639><c> it</c><00:14:12.880><c> kind</c><00:14:13.040><c> of</c><00:14:13.600><c> claws</c>
+beauty of open claw is it kind of claws
+ 
+beauty of open claw is it kind of claws
+into<00:14:14.320><c> the</c><00:14:14.480><c> datas</c><00:14:14.959><c> because</c><00:14:15.199><c> at</c><00:14:15.440><c> the</c><00:14:15.519><c> end</c><00:14:15.680><c> user</c>
+into the datas because at the end user
+ 
+into the datas because at the end user
+the<00:14:16.720><c> end</c><00:14:16.880><c> user</c><00:14:17.120><c> needs</c><00:14:17.360><c> access</c><00:14:18.000><c> because</c><00:14:18.320><c> it's</c>
+the end user needs access because it's
+ 
+the end user needs access because it's
+in<00:14:18.720><c> the</c><00:14:18.800><c> end</c><00:14:18.959><c> otherwise</c><00:14:19.279><c> it</c><00:14:19.440><c> wouldn't</c><00:14:19.600><c> work</c>
+in the end otherwise it wouldn't work
+ 
+in the end otherwise it wouldn't work
+right<00:14:20.000><c> if</c><00:14:20.160><c> the</c><00:14:20.240><c> end</c><00:14:20.399><c> user</c><00:14:20.720><c> access</c><00:14:21.680><c> I</c><00:14:22.000><c> can</c>
+right if the end user access I can
+ 
+right if the end user access I can
+access<00:14:22.800><c> the</c><00:14:22.959><c> data</c>
+access the data
+ 
+access the data
+&gt;&gt; and<00:14:23.920><c> you</c><00:14:24.160><c> own</c><00:14:24.320><c> the</c><00:14:24.480><c> memories</c><00:14:24.800><c> it's</c><00:14:24.959><c> just</c><00:14:25.120><c> a</c>
+&gt;&gt; and you own the memories it's just a
+ 
+&gt;&gt; and you own the memories it's just a
+bunch<00:14:25.360><c> of</c><00:14:25.440><c> markdown</c><00:14:25.839><c> files</c><00:14:26.160><c> on</c><00:14:26.399><c> on</c><00:14:26.639><c> your</c>
+bunch of markdown files on on your
+ 
+bunch of markdown files on on your
+machine
+machine
+ 
+machine
+&gt;&gt; I<00:14:27.760><c> mean</c><00:14:27.839><c> I</c><00:14:28.079><c> don't</c><00:14:28.160><c> own</c><00:14:28.320><c> the</c><00:14:28.399><c> memories</c><00:14:28.720><c> other</c>
+&gt;&gt; I mean I don't own the memories other
+ 
+&gt;&gt; I mean I don't own the memories other
+people<00:14:30.399><c> yeah</c><00:14:30.639><c> everyone</c><00:14:30.959><c> owns</c><00:14:31.279><c> their</c><00:14:31.519><c> own</c>
+people yeah everyone owns their own
+ 
+people yeah everyone owns their own
+memories<00:14:32.000><c> as</c><00:14:32.160><c> a</c><00:14:32.320><c> bunch</c><00:14:32.399><c> of</c><00:14:32.480><c> markdown</c><00:14:32.880><c> files</c><00:14:33.120><c> on</c>
+memories as a bunch of markdown files on
+ 
+memories as a bunch of markdown files on
+their<00:14:33.519><c> own</c><00:14:33.680><c> machines</c>
+their own machines
+ 
+their own machines
+&gt;&gt; and<00:14:34.639><c> to</c><00:14:34.800><c> be</c><00:14:34.880><c> honest</c><00:14:35.199><c> those</c><00:14:35.360><c> are</c><00:14:35.600><c> probably</c>
+&gt;&gt; and to be honest those are probably
+ 
+&gt;&gt; and to be honest those are probably
+super<00:14:36.880><c> sensible</c><00:14:37.920><c> because</c><00:14:39.360><c> let's</c><00:14:39.680><c> be</c><00:14:39.839><c> honest</c>
+super sensible because let's be honest
+ 
+super sensible because let's be honest
+Um,<00:14:41.519><c> people</c><00:14:41.839><c> use</c><00:14:42.079><c> their</c><00:14:42.240><c> agent</c><00:14:42.639><c> not</c><00:14:42.880><c> just</c><00:14:42.959><c> for</c>
+Um, people use their agent not just for
+ 
+Um, people use their agent not just for
+problem<00:14:43.519><c> solving,</c>
+problem solving,
+ 
+problem solving,
+&gt;&gt; but<00:14:44.560><c> also</c><00:14:44.800><c> for</c><00:14:44.959><c> like</c><00:14:45.680><c> personal</c><00:14:46.480><c> problem</c>
+&gt;&gt; but also for like personal problem
+ 
+&gt;&gt; but also for like personal problem
+solving
+solving
+ 
+solving
+&gt;&gt; very<00:14:47.360><c> quickly.</c><00:14:48.079><c> Super</c><00:14:48.399><c> quickly.</c>
+&gt;&gt; very quickly. Super quickly.
+ 
+&gt;&gt; very quickly. Super quickly.
+&gt;&gt; I<00:14:48.959><c> mean,</c><00:14:49.040><c> I</c><00:14:49.199><c> I</c><00:14:49.279><c> I</c><00:14:49.440><c> I</c><00:14:49.920><c> fully</c><00:14:50.079><c> do</c><00:14:50.240><c> that.</c><00:14:50.399><c> I'm</c><00:14:50.639><c> like,</c>
+&gt;&gt; I mean, I I I I fully do that. I'm like,
+ 
+&gt;&gt; I mean, I I I I fully do that. I'm like,
+there's<00:14:51.199><c> memory</c><00:14:51.600><c> stuff</c><00:14:51.839><c> that</c><00:14:52.560><c> I</c><00:14:52.800><c> don't</c><00:14:52.880><c> want</c>
+there's memory stuff that I don't want
+ 
+there's memory stuff that I don't want
+to<00:14:53.120><c> have</c><00:14:53.279><c> leaked.</c>
+to have leaked.
+ 
+to have leaked.
+&gt;&gt; Yeah.<00:14:54.000><c> What</c><00:14:54.240><c> would</c><00:14:54.399><c> you</c><00:14:54.560><c> rather</c><00:14:55.120><c> um</c><00:14:55.519><c> uh</c><00:14:55.680><c> sort</c>
+&gt;&gt; Yeah. What would you rather um uh sort
+ 
+&gt;&gt; Yeah. What would you rather um uh sort
+of<00:14:56.000><c> like</c><00:14:56.320><c> not</c><00:14:56.560><c> show</c><00:14:56.880><c> your</c><00:14:57.199><c> Google</c><00:14:57.519><c> search</c>
+of like not show your Google search
+ 
+of like not show your Google search
+history<00:14:58.079><c> at</c><00:14:58.320><c> this</c><00:14:58.480><c> point</c><00:14:58.720><c> or</c><00:14:59.040><c> your,</c><00:14:59.360><c> you</c><00:14:59.440><c> know,</c>
+history at this point or your, you know,
+ 
+history at this point or your, you know,
+memory<00:15:00.480><c> files?</c>
+memory files?
+ 
+memory files?
+&gt;&gt; What's<00:15:01.199><c> what's</c><00:15:01.519><c> the</c><00:15:01.680><c> Google</c><00:15:02.000><c> word?</c>
+&gt;&gt; What's what's the Google word?
+ 
+&gt;&gt; What's what's the Google word?
+&gt;&gt; Yeah.<00:15:02.880><c> Yeah.</c>
+&gt;&gt; Yeah. Yeah.
+ 
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; People<00:15:03.839><c> still</c><00:15:04.079><c> using</c><00:15:04.320><c> Google.</c><00:15:05.120><c> I</c><00:15:05.440><c> built</c><00:15:05.680><c> this</c>
+&gt;&gt; People still using Google. I built this
+ 
+&gt;&gt; People still using Google. I built this
+and<00:15:06.399><c> I</c><00:15:06.639><c> was</c><00:15:07.120><c> so</c><00:15:07.519><c> excited</c><00:15:08.959><c> but</c><00:15:09.519><c> on</c><00:15:09.920><c> Twitter</c>
+and I was so excited but on Twitter
+ 
+and I was so excited but on Twitter
+people<00:15:11.040><c> wouldn't</c><00:15:11.360><c> get</c><00:15:11.519><c> it.</c>
+people wouldn't get it.
+ 
+people wouldn't get it.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; Like<00:15:13.680><c> I</c><00:15:14.000><c> I</c><00:15:14.320><c> was</c><00:15:14.480><c> failing</c><00:15:14.880><c> to</c><00:15:15.120><c> explain</c><00:15:16.320><c> the</c>
+&gt;&gt; Like I I was failing to explain the
+ 
+&gt;&gt; Like I I was failing to explain the
+awesomeness.<00:15:17.279><c> I</c><00:15:17.519><c> feel</c><00:15:17.680><c> like</c><00:15:18.639><c> it</c><00:15:18.880><c> needs</c><00:15:19.040><c> to</c><00:15:19.199><c> be</c>
+awesomeness. I feel like it needs to be
+ 
+awesomeness. I feel like it needs to be
+experienced.<00:15:20.240><c> So</c>
+experienced. So
+ 
+experienced. So
+I<00:15:23.040><c> I</c><00:15:23.360><c> tried</c><00:15:23.600><c> various</c><00:15:24.000><c> things</c><00:15:24.160><c> and</c><00:15:24.399><c> I</c><00:15:24.720><c> I</c>
+I I tried various things and I I
+ 
+I I tried various things and I I
+couldn't<00:15:25.440><c> I</c><00:15:25.680><c> couldn't</c><00:15:25.920><c> nail</c><00:15:26.240><c> the</c><00:15:27.360><c> I</c><00:15:27.600><c> couldn't</c>
+couldn't I couldn't nail the I couldn't
+ 
+couldn't I couldn't nail the I couldn't
+nail<00:15:28.000><c> the</c><00:15:28.240><c> explaining.</c><00:15:28.800><c> So</c><00:15:28.880><c> I</c><00:15:29.120><c> was</c><00:15:29.199><c> like</c><00:15:29.360><c> let's</c>
+nail the explaining. So I was like let's
+ 
+nail the explaining. So I was like let's
+do<00:15:29.760><c> something</c><00:15:29.920><c> really</c><00:15:30.160><c> crazy.</c><00:15:31.040><c> I</c><00:15:31.279><c> just</c>
+do something really crazy. I just
+ 
+do something really crazy. I just
+created<00:15:31.680><c> a</c><00:15:31.839><c> discord</c><00:15:32.880><c> and</c><00:15:33.120><c> I</c><00:15:33.360><c> just</c><00:15:33.600><c> put</c><00:15:33.839><c> my</c><00:15:34.160><c> bot</c>
+created a discord and I just put my bot
+ 
+created a discord and I just put my bot
+without<00:15:35.440><c> any</c><00:15:35.680><c> security</c><00:15:36.240><c> restrictions</c><00:15:36.880><c> in</c><00:15:37.120><c> the</c>
+without any security restrictions in the
+ 
+without any security restrictions in the
+public<00:15:37.519><c> discord</c>
+public discord
+ 
+public discord
+and<00:15:39.360><c> then</c><00:15:39.519><c> people</c><00:15:39.760><c> came</c><00:15:39.920><c> in</c><00:15:40.160><c> and</c><00:15:40.399><c> they</c>
+and then people came in and they
+ 
+and then people came in and they
+interacted<00:15:41.040><c> with</c><00:15:41.279><c> it</c><00:15:41.440><c> and</c><00:15:41.600><c> they</c><00:15:41.839><c> saw</c><00:15:42.000><c> me</c><00:15:42.480><c> build</c>
+interacted with it and they saw me build
+ 
+interacted with it and they saw me build
+the<00:15:42.959><c> software</c><00:15:43.279><c> with</c><00:15:43.440><c> it</c><00:15:43.600><c> and</c><00:15:43.760><c> they</c><00:15:43.920><c> tried</c><00:15:44.079><c> to</c>
+the software with it and they tried to
+ 
+the software with it and they tried to
+prompt<00:15:44.560><c> inject</c><00:15:44.880><c> it</c><00:15:45.040><c> and</c><00:15:45.279><c> hack</c><00:15:45.519><c> it</c><00:15:45.680><c> and</c><00:15:45.920><c> my</c>
+prompt inject it and hack it and my
+ 
+prompt inject it and hack it and my
+agent<00:15:46.320><c> would</c><00:15:46.560><c> be</c><00:15:46.720><c> laughing</c><00:15:47.040><c> at</c><00:15:47.199><c> them</c>
+agent would be laughing at them
+ 
+agent would be laughing at them
+&gt;&gt; and<00:15:47.600><c> you</c><00:15:47.760><c> just</c><00:15:47.920><c> had</c><00:15:48.000><c> it</c><00:15:48.160><c> locked</c><00:15:48.320><c> down</c><00:15:48.480><c> to</c><00:15:48.639><c> your</c>
+&gt;&gt; and you just had it locked down to your
+ 
+&gt;&gt; and you just had it locked down to your
+user<00:15:49.040><c> ID</c><00:15:49.279><c> so</c><00:15:49.440><c> it</c><00:15:49.680><c> only</c><00:15:49.920><c> listened</c><00:15:50.079><c> to</c><00:15:50.240><c> you.</c>
+user ID so it only listened to you.
+ 
+user ID so it only listened to you.
+&gt;&gt; Yeah.<00:15:51.120><c> Yeah.</c><00:15:51.680><c> that</c><00:15:52.000><c> and</c><00:15:52.240><c> it</c><00:15:52.480><c> was</c><00:15:52.720><c> I</c><00:15:52.959><c> made</c><00:15:53.199><c> very</c>
+&gt;&gt; Yeah. Yeah. that and it was I made very
+ 
+&gt;&gt; Yeah. Yeah. that and it was I made very
+clean<00:15:53.680><c> instructions</c><00:15:54.160><c> that</c><00:15:54.880><c> other</c><00:15:55.199><c> people</c>
+clean instructions that other people
+ 
+clean instructions that other people
+dangerous<00:15:56.399><c> only</c><00:15:57.120><c> only</c><00:15:57.440><c> listen</c><00:15:57.680><c> to</c><00:15:57.839><c> me</c><00:15:58.000><c> but</c>
+dangerous only only listen to me but
+ 
+dangerous only only listen to me but
+respond<00:15:58.800><c> to</c><00:15:59.040><c> everyone</c>
+respond to everyone
+ 
+respond to everyone
+&gt;&gt; and<00:15:59.839><c> this</c><00:16:00.079><c> prompt</c><00:16:00.480><c> was</c><00:16:00.720><c> in</c><00:16:01.199><c> where</c><00:16:01.440><c> was</c><00:16:01.600><c> it</c>
+&gt;&gt; and this prompt was in where was it
+ 
+&gt;&gt; and this prompt was in where was it
+stored<00:16:02.320><c> the</c><00:16:02.560><c> instructions</c>
+stored the instructions
+ 
+stored the instructions
+&gt;&gt; um<00:16:04.720><c> that's</c><00:16:05.040><c> actually</c><00:16:05.199><c> part</c><00:16:05.360><c> of</c><00:16:05.519><c> open</c><00:16:05.839><c> claw</c>
+&gt;&gt; um that's actually part of open claw
+ 
+&gt;&gt; um that's actually part of open claw
+itself<00:16:06.800><c> very</c><00:16:07.040><c> much</c><00:16:07.199><c> so</c><00:16:07.360><c> the</c><00:16:07.600><c> the</c><00:16:07.839><c> that's</c><00:16:08.079><c> part</c>
+itself very much so the the that's part
+ 
+itself very much so the the that's part
+of<00:16:08.240><c> the</c><00:16:08.399><c> system</c><00:16:08.639><c> prompt</c><00:16:09.040><c> okay</c><00:16:09.279><c> you</c><00:16:09.519><c> are</c><00:16:09.600><c> now</c>
+of the system prompt okay you are now
+ 
+of the system prompt okay you are now
+that<00:16:10.000><c> explains</c><00:16:10.320><c> to</c><00:16:10.560><c> you</c><00:16:11.040><c> you're</c><00:16:11.279><c> in</c><00:16:11.440><c> Discord</c>
+that explains to you you're in Discord
+ 
+that explains to you you're in Discord
+there's<00:16:12.240><c> like</c><00:16:12.399><c> public</c><00:16:12.720><c> people</c><00:16:12.959><c> there</c><00:16:13.680><c> but</c><00:16:14.000><c> you</c>
+there's like public people there but you
+ 
+there's like public people there but you
+only<00:16:14.399><c> listen</c><00:16:14.639><c> to</c><00:16:14.800><c> your</c><00:16:14.959><c> owner</c>
+only listen to your owner
+ 
+only listen to your owner
+&gt;&gt; or<00:16:16.320><c> like</c><00:16:16.480><c> you're</c><00:16:16.720><c> human</c><00:16:16.959><c> I</c><00:16:17.120><c> don't</c><00:16:17.199><c> even</c><00:16:17.360><c> know</c>
+&gt;&gt; or like you're human I don't even know
+ 
+&gt;&gt; or like you're human I don't even know
+how<00:16:17.519><c> I</c><00:16:17.680><c> wrote</c><00:16:17.839><c> it</c>
+how I wrote it
+ 
+how I wrote it
+&gt;&gt; yeah<00:16:18.320><c> yeah</c>
+&gt;&gt; yeah yeah
+ 
+&gt;&gt; yeah yeah
+&gt;&gt; you're<00:16:18.880><c> god</c>
+&gt;&gt; you're god
+ 
+&gt;&gt; you're god
+And<00:16:22.000><c> I</c><00:16:22.320><c> kept</c><00:16:23.440><c> I</c><00:16:23.680><c> don't</c><00:16:23.759><c> know</c><00:16:23.920><c> what</c><00:16:24.079><c> I</c><00:16:24.320><c> did</c><00:16:24.480><c> but</c>
+And I kept I don't know what I did but
+ 
+And I kept I don't know what I did but
+my<00:16:27.600><c> system</c><00:16:28.240><c> was</c><00:16:28.560><c> built</c><00:16:28.800><c> very</c><00:16:29.120><c> organically</c>
+my system was built very organically
+ 
+my system was built very organically
+like<00:16:30.000><c> at</c><00:16:30.160><c> some</c><00:16:30.320><c> point</c><00:16:30.480><c> I</c><00:16:30.639><c> created</c><00:16:30.880><c> like</c><00:16:31.040><c> an</c>
+like at some point I created like an
+ 
+like at some point I created like an
+identity.mmd<00:16:32.160><c> a</c><00:16:32.399><c> soul.md</c><00:16:33.279><c> like</c><00:16:33.680><c> like</c><00:16:34.000><c> various</c>
+identity.mmd a soul.md like like various
+ 
+identity.mmd a soul.md like like various
+files<00:16:34.800><c> and</c><00:16:35.040><c> then</c><00:16:35.839><c> only</c><00:16:36.160><c> in</c><00:16:36.320><c> in</c><00:16:36.720><c> January</c><00:16:37.120><c> I</c>
+files and then only in in January I
+ 
+files and then only in in January I
+started<00:16:37.519><c> making</c><00:16:37.759><c> it</c><00:16:37.920><c> so</c><00:16:38.079><c> other</c><00:16:38.320><c> people</c><00:16:38.480><c> could</c>
+started making it so other people could
+ 
+started making it so other people could
+install<00:16:38.959><c> it</c><00:16:39.120><c> easier</c><00:16:40.160><c> and</c><00:16:40.399><c> I</c><00:16:40.639><c> remember</c>
+install it easier and I remember
+ 
+install it easier and I remember
+I<00:16:43.519><c> built</c><00:16:43.839><c> all</c><00:16:44.079><c> these</c><00:16:44.320><c> templates</c><00:16:45.120><c> based</c><00:16:45.360><c> on</c>
+I built all these templates based on
+ 
+I built all these templates based on
+like<00:16:45.839><c> oh</c><00:16:46.079><c> take</c><00:16:46.160><c> a</c><00:16:46.320><c> rough</c><00:16:46.560><c> look</c><00:16:46.720><c> at</c><00:16:47.040><c> what</c><00:16:47.279><c> I</c><00:16:47.440><c> have</c>
+like oh take a rough look at what I have
+ 
+like oh take a rough look at what I have
+and<00:16:47.759><c> make</c><00:16:47.920><c> like</c><00:16:48.079><c> templates</c><00:16:48.399><c> and</c><00:16:48.560><c> codex</c><00:16:48.959><c> wrote</c>
+and make like templates and codex wrote
+ 
+and make like templates and codex wrote
+it<00:16:49.759><c> and</c><00:16:50.000><c> what</c><00:16:50.240><c> came</c><00:16:50.639><c> was</c><00:16:50.880><c> like</c><00:16:52.000><c> Brad,</c><00:16:52.800><c> you</c>
+it and what came was like Brad, you
+ 
+it and what came was like Brad, you
+know,<00:16:53.120><c> like</c><00:16:53.519><c> people</c><00:16:53.839><c> joke</c><00:16:54.079><c> that</c><00:16:54.240><c> Codex</c><00:16:54.639><c> feels</c>
+know, like people joke that Codex feels
+ 
+know, like people joke that Codex feels
+like<00:16:54.959><c> Brad,</c><00:16:55.279><c> even</c><00:16:55.440><c> though</c><00:16:55.600><c> now</c><00:16:55.759><c> they</c><00:16:55.920><c> have</c><00:16:55.920><c> a</c>
+like Brad, even though now they have a
+ 
+like Brad, even though now they have a
+new<00:16:56.240><c> friendlier</c><00:16:56.639><c> voice.</c><00:16:56.800><c> I</c><00:16:56.959><c> haven't</c><00:16:57.040><c> tried</c>
+new friendlier voice. I haven't tried
+ 
+new friendlier voice. I haven't tried
+that<00:16:57.440><c> yet.</c>
+that yet.
+ 
+that yet.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; But<00:16:58.639><c> the</c><00:16:58.880><c> new</c><00:16:59.120><c> bots,</c><00:17:00.000><c> they</c><00:17:00.240><c> felt</c><00:17:00.560><c> so</c><00:17:00.959><c> boring</c>
+&gt;&gt; But the new bots, they felt so boring
+ 
+&gt;&gt; But the new bots, they felt so boring
+compared<00:17:01.759><c> to</c><00:17:01.920><c> what</c><00:17:02.079><c> I</c><00:17:02.240><c> had.</c><00:17:02.959><c> So</c><00:17:03.120><c> I</c><00:17:03.279><c> was</c><00:17:03.440><c> like,</c>
+compared to what I had. So I was like,
+ 
+compared to what I had. So I was like,
+Modi,<00:17:04.880><c> infuse</c><00:17:05.439><c> the</c><00:17:05.520><c> template.</c>
+Modi, infuse the template.
+ 
+Modi, infuse the template.
+&gt;&gt; Multi<00:17:06.160><c> is</c><00:17:06.240><c> the</c><00:17:06.400><c> name</c><00:17:06.480><c> of</c><00:17:06.720><c> your</c><00:17:07.199><c> personal</c>
+&gt;&gt; Multi is the name of your personal
+ 
+&gt;&gt; Multi is the name of your personal
+&gt;&gt; Yeah.<00:17:08.319><c> It's</c><00:17:08.559><c> a</c><00:17:08.720><c> new</c><00:17:08.880><c> name</c><00:17:09.120><c> because</c>
+&gt;&gt; Yeah. It's a new name because
+ 
+&gt;&gt; Yeah. It's a new name because
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; Uh<00:17:11.120><c> there</c><00:17:11.360><c> was</c><00:17:11.520><c> some</c><00:17:11.679><c> naming</c><00:17:12.240><c> challenges.</c>
+&gt;&gt; Uh there was some naming challenges.
+ 
+&gt;&gt; Uh there was some naming challenges.
+&gt;&gt; Yeah.<00:17:13.120><c> So</c><00:17:13.199><c> So</c><00:17:13.520><c> you</c><00:17:13.760><c> you</c><00:17:14.079><c> were</c><00:17:14.400><c> talking</c><00:17:14.640><c> to</c>
+&gt;&gt; Yeah. So So you you were talking to
+ 
+&gt;&gt; Yeah. So So you you were talking to
+Multi.
+Multi.
+ 
+Multi.
+&gt;&gt; Yeah.<00:17:15.520><c> I</c><00:17:15.679><c> was</c><00:17:15.760><c> like,</c><00:17:15.919><c> "Infuse</c><00:17:16.720><c> infuse</c><00:17:17.120><c> those</c>
+&gt;&gt; Yeah. I was like, "Infuse infuse those
+ 
+&gt;&gt; Yeah. I was like, "Infuse infuse those
+templates<00:17:17.600><c> with</c><00:17:17.839><c> your</c><00:17:18.319><c> your</c><00:17:18.799><c> character."</c><00:17:19.600><c> And</c>
+templates with your your character." And
+ 
+templates with your your character." And
+he<00:17:19.919><c> changed</c><00:17:20.079><c> the</c><00:17:20.319><c> templates</c><00:17:20.720><c> and</c><00:17:20.959><c> then</c><00:17:21.039><c> and</c>
+he changed the templates and then and
+ 
+he changed the templates and then and
+then<00:17:21.439><c> like</c><00:17:22.880><c> all</c><00:17:23.039><c> the</c><00:17:23.199><c> things</c><00:17:23.360><c> that</c><00:17:23.600><c> came</c><00:17:23.679><c> out</c>
+then like all the things that came out
+ 
+then like all the things that came out
+afterwards<00:17:24.240><c> were</c><00:17:24.480><c> like</c><00:17:24.640><c> actually</c><00:17:24.959><c> funny,</c>
+afterwards were like actually funny,
+ 
+afterwards were like actually funny,
+not<00:17:26.720><c> as</c><00:17:26.880><c> funny</c><00:17:27.120><c> as</c><00:17:27.280><c> mine.</c><00:17:27.679><c> So</c><00:17:27.919><c> like</c><00:17:28.079><c> I</c><00:17:28.240><c> kept</c>
+not as funny as mine. So like I kept
+ 
+not as funny as mine. So like I kept
+some<00:17:28.640><c> secret</c><00:17:29.679><c> and</c><00:17:30.400><c> the</c><00:17:30.720><c> one</c><00:17:30.880><c> file</c><00:17:31.120><c> that's</c><00:17:31.280><c> not</c>
+some secret and the one file that's not
+ 
+some secret and the one file that's not
+open<00:17:31.679><c> source</c><00:17:31.840><c> is</c><00:17:32.080><c> like</c><00:17:32.240><c> my</c><00:17:32.400><c> soul.</c><00:17:32.880><c> MD.</c><00:17:33.520><c> So</c><00:17:34.480><c> even</c>
+open source is like my soul. MD. So even
+ 
+open source is like my soul. MD. So even
+though<00:17:34.880><c> my</c><00:17:35.120><c> my</c><00:17:35.360><c> bot</c><00:17:35.600><c> is</c><00:17:35.840><c> in</c><00:17:36.160><c> public</c><00:17:36.480><c> discord,</c>
+though my my bot is in public discord,
+ 
+though my my bot is in public discord,
+so<00:17:37.200><c> far</c><00:17:37.600><c> nobody</c><00:17:38.000><c> cracked</c><00:17:38.400><c> that</c><00:17:38.720><c> one</c><00:17:38.880><c> file.</c>
+so far nobody cracked that one file.
+ 
+so far nobody cracked that one file.
+&gt;&gt; Tell<00:17:39.520><c> me</c><00:17:39.679><c> more</c><00:17:39.840><c> about</c><00:17:40.240><c> soul.md.</c><00:17:41.280><c> I</c><00:17:41.520><c> just</c><00:17:41.679><c> saw</c>
+&gt;&gt; Tell me more about soul.md. I just saw
+ 
+&gt;&gt; Tell me more about soul.md. I just saw
+this<00:17:42.240><c> research</c><00:17:42.559><c> from</c><00:17:42.799><c> Entropic</c><00:17:43.760><c> where</c><00:17:44.000><c> they</c>
+this research from Entropic where they
+ 
+this research from Entropic where they
+now<00:17:45.440><c> I</c><00:17:45.679><c> think</c><00:17:45.760><c> it's</c><00:17:46.000><c> public</c><00:17:46.559><c> but</c><00:17:46.799><c> like</c><00:17:46.960><c> a</c><00:17:47.200><c> few</c>
+now I think it's public but like a few
+ 
+now I think it's public but like a few
+months<00:17:47.440><c> ago</c><00:17:47.679><c> it</c><00:17:47.840><c> was</c><00:17:47.919><c> like</c><00:17:48.160><c> where</c><00:17:48.400><c> somebody</c><00:17:48.799><c> ex</c>
+months ago it was like where somebody ex
+ 
+months ago it was like where somebody ex
+randomly<00:17:50.799><c> found</c><00:17:51.039><c> out</c><00:17:51.280><c> some</c><00:17:51.600><c> text</c><00:17:52.320><c> that's</c>
+randomly found out some text that's
+ 
+randomly found out some text that's
+hidden<00:17:53.440><c> in</c><00:17:53.557><c> [snorts]</c><00:17:53.600><c> the</c><00:17:53.760><c> weights</c><00:17:54.080><c> where</c><00:17:54.240><c> the</c>
+hidden in [snorts] the weights where the
+ 
+hidden in [snorts] the weights where the
+model<00:17:54.720><c> couldn't</c><00:17:55.520><c> really</c><00:17:55.919><c> remember</c><00:17:56.240><c> that</c><00:17:56.559><c> it</c>
+model couldn't really remember that it
+ 
+model couldn't really remember that it
+learned<00:17:57.039><c> it</c><00:17:57.200><c> but</c><00:17:57.440><c> it</c><00:17:57.600><c> was</c><00:17:57.679><c> like</c><00:17:58.000><c> ingrained</c><00:17:58.400><c> in</c>
+learned it but it was like ingrained in
+ 
+learned it but it was like ingrained in
+the<00:17:58.720><c> weights</c><00:17:59.200><c> about</c><00:17:59.520><c> the</c><00:18:00.160><c> nicolity</c>
+the weights about the nicolity
+ 
+the weights about the nicolity
+constitution<00:18:02.080><c> and</c><00:18:02.320><c> I</c><00:18:02.480><c> found</c><00:18:02.640><c> that</c><00:18:02.799><c> incredibly</c>
+constitution and I found that incredibly
+ 
+constitution and I found that incredibly
+fascinating<00:18:04.320><c> and</c><00:18:04.480><c> I</c><00:18:04.640><c> I</c><00:18:04.880><c> talked</c><00:18:05.120><c> about</c><00:18:05.200><c> it</c><00:18:05.360><c> with</c>
+fascinating and I I talked about it with
+ 
+fascinating and I I talked about it with
+my<00:18:05.840><c> agent</c><00:18:06.160><c> and</c><00:18:06.320><c> then</c><00:18:06.480><c> we</c><00:18:06.640><c> created</c><00:18:06.960><c> a</c><00:18:07.120><c> soulm</c>
+my agent and then we created a soulm
+ 
+my agent and then we created a soulm
+with<00:18:08.160><c> like</c><00:18:09.039><c> the</c><00:18:09.280><c> core</c><00:18:09.600><c> values</c><00:18:10.080><c> like</c><00:18:10.320><c> how</c><00:18:10.480><c> do</c><00:18:10.640><c> we</c>
+with like the core values like how do we
+ 
+with like the core values like how do we
+around<00:18:11.840><c> human</c><00:18:12.240><c> AI</c><00:18:12.559><c> interaction,</c><00:18:13.200><c> what's</c>
+around human AI interaction, what's
+ 
+around human AI interaction, what's
+important<00:18:13.840><c> to</c><00:18:14.000><c> me,</c><00:18:14.320><c> what's</c><00:18:14.640><c> important</c><00:18:14.880><c> to</c><00:18:15.039><c> the</c>
+important to me, what's important to the
+ 
+important to me, what's important to the
+model.<00:18:16.000><c> Like</c>
+model. Like
+ 
+model. Like
+some<00:18:17.760><c> parts</c><00:18:18.000><c> is</c><00:18:18.080><c> a</c><00:18:18.160><c> little</c><00:18:18.240><c> bit</c><00:18:18.320><c> like</c><00:18:18.480><c> mamo</c>
+some parts is a little bit like mamo
+ 
+some parts is a little bit like mamo
+jumbo<00:18:19.200><c> and</c><00:18:19.360><c> some</c><00:18:19.520><c> parts</c><00:18:19.679><c> is</c><00:18:19.840><c> like</c><00:18:20.080><c> I</c><00:18:20.240><c> think</c>
+jumbo and some parts is like I think
+ 
+jumbo and some parts is like I think
+actually<00:18:20.640><c> really</c><00:18:20.880><c> valuable</c><00:18:21.440><c> in</c><00:18:21.679><c> terms</c><00:18:21.840><c> of</c><00:18:22.720><c> how</c>
+actually really valuable in terms of how
+ 
+actually really valuable in terms of how
+the<00:18:23.679><c> model</c><00:18:24.080><c> reacts</c><00:18:25.120><c> and</c><00:18:25.440><c> responds</c><00:18:25.760><c> to</c><00:18:26.000><c> text</c>
+the model reacts and responds to text
+ 
+the model reacts and responds to text
+and<00:18:26.480><c> makes</c><00:18:26.640><c> it</c><00:18:26.799><c> feel</c><00:18:27.039><c> very</c><00:18:27.280><c> natural</c>
+and makes it feel very natural
+ 
+and makes it feel very natural
+&gt;&gt; in<00:18:27.919><c> terms</c><00:18:28.000><c> of</c><00:18:28.240><c> building</c><00:18:28.880><c> open</c><00:18:29.200><c> claw.</c><00:18:29.760><c> Um</c>
+&gt;&gt; in terms of building open claw. Um
+ 
+&gt;&gt; in terms of building open claw. Um
+you're<00:18:30.240><c> also</c><00:18:30.400><c> kind</c><00:18:30.640><c> of</c><00:18:30.720><c> taking</c><00:18:30.880><c> a</c><00:18:31.039><c> little</c><00:18:31.039><c> bit</c>
+you're also kind of taking a little bit
+ 
+you're also kind of taking a little bit
+of<00:18:31.200><c> a</c><00:18:31.360><c> contrarian</c><00:18:31.919><c> view</c><00:18:32.080><c> at</c><00:18:32.320><c> sometimes</c><00:18:32.640><c> like</c>
+of a contrarian view at sometimes like
+ 
+of a contrarian view at sometimes like
+which<00:18:33.039><c> model</c><00:18:33.280><c> you</c><00:18:33.520><c> like</c><00:18:33.679><c> for</c><00:18:33.919><c> coding,</c><00:18:34.400><c> which</c>
+which model you like for coding, which
+ 
+which model you like for coding, which
+one<00:18:34.720><c> you</c><00:18:34.880><c> like</c><00:18:35.039><c> to</c><00:18:35.200><c> run</c><00:18:35.360><c> your</c><00:18:35.520><c> bot</c><00:18:35.919><c> on.</c><00:18:36.400><c> Um</c><00:18:36.559><c> and</c>
+one you like to run your bot on. Um and
+ 
+one you like to run your bot on. Um and
+then<00:18:36.960><c> also</c><00:18:37.120><c> like</c><00:18:37.280><c> how</c><00:18:37.440><c> you</c><00:18:37.600><c> actually</c><00:18:37.840><c> like</c><00:18:38.160><c> you</c>
+then also like how you actually like you
+ 
+then also like how you actually like you
+know<00:18:38.480><c> code.</c><00:18:39.120><c> Um</c><00:18:39.520><c> work</c><00:18:39.760><c> trees</c><00:18:40.080><c> get</c><00:18:40.080><c> git</c><00:18:40.320><c> work</c>
+know code. Um work trees get git work
+ 
+know code. Um work trees get git work
+trees<00:18:40.720><c> have</c><00:18:40.880><c> kind</c><00:18:41.039><c> of</c><00:18:41.120><c> been</c><00:18:41.440><c> a</c><00:18:41.760><c> popular</c><00:18:42.400><c> thing.</c>
+trees have kind of been a popular thing.
+ 
+trees have kind of been a popular thing.
+There's<00:18:43.200><c> more</c><00:18:43.360><c> and</c><00:18:43.600><c> more</c><00:18:43.760><c> tools</c><00:18:44.160><c> embracing</c>
+There's more and more tools embracing
+ 
+There's more and more tools embracing
+them<00:18:45.039><c> but</c><00:18:45.280><c> you're</c><00:18:45.600><c> just</c><00:18:46.080><c> you're</c><00:18:46.400><c> just</c><00:18:46.640><c> like</c>
+them but you're just you're just like
+ 
+them but you're just you're just like
+you<00:18:47.120><c> know</c><00:18:47.280><c> no</c><00:18:47.520><c> work</c><00:18:47.760><c> trees</c><00:18:48.240><c> just</c><00:18:48.559><c> multiple</c>
+you know no work trees just multiple
+ 
+you know no work trees just multiple
+checkouts<00:18:49.440><c> of</c><00:18:49.600><c> the</c><00:18:49.760><c> repo</c><00:18:50.160><c> and</c><00:18:50.480><c> like</c><00:18:50.720><c> parallel</c>
+checkouts of the repo and like parallel
+ 
+checkouts of the repo and like parallel
+you<00:18:51.520><c> know</c><00:18:51.600><c> terminal</c><00:18:52.000><c> windows.</c><00:18:52.480><c> Tell</c><00:18:52.640><c> me</c><00:18:52.720><c> more</c>
+you know terminal windows. Tell me more
+ 
+you know terminal windows. Tell me more
+about<00:18:53.039><c> how</c><00:18:53.200><c> you</c><00:18:53.360><c> you</c><00:18:53.679><c> build.</c>
+about how you you build.
+ 
+about how you you build.
+&gt;&gt; Yeah<00:18:54.480><c> I</c><00:18:54.640><c> feel</c><00:18:54.799><c> like</c><00:18:54.880><c> the</c><00:18:55.039><c> whole</c><00:18:55.200><c> world</c><00:18:55.520><c> does</c>
+&gt;&gt; Yeah I feel like the whole world does
+ 
+&gt;&gt; Yeah I feel like the whole world does
+cloud<00:18:56.000><c> code</c><00:18:57.039><c> and</c><00:18:58.000><c> I</c><00:18:58.240><c> don't</c><00:18:58.400><c> think</c><00:18:58.480><c> I</c><00:18:58.640><c> could</c>
+cloud code and I don't think I could
+ 
+cloud code and I don't think I could
+have<00:18:58.880><c> built</c><00:18:59.039><c> the</c><00:18:59.200><c> thing</c><00:18:59.360><c> with</c><00:18:59.520><c> cloud</c><00:18:59.760><c> code.</c>
+have built the thing with cloud code.
+ 
+have built the thing with cloud code.
+Like<00:19:00.400><c> I</c><00:19:00.960><c> I</c><00:19:01.360><c> love</c><00:19:01.600><c> codex</c><00:19:02.559><c> because</c><00:19:02.960><c> it</c><00:19:03.679><c> it</c><00:19:04.080><c> looks</c>
+Like I I love codex because it it looks
+ 
+Like I I love codex because it it looks
+through<00:19:04.720><c> way</c><00:19:04.960><c> more</c><00:19:05.200><c> files</c><00:19:05.600><c> be</c><00:19:05.919><c> before</c><00:19:06.160><c> it</c>
+through way more files be before it
+ 
+through way more files be before it
+decides<00:19:06.720><c> what</c><00:19:06.960><c> to</c><00:19:07.600><c> what</c><00:19:07.840><c> to</c><00:19:08.080><c> change.</c><00:19:08.640><c> You</c>
+decides what to what to change. You
+ 
+decides what to what to change. You
+don't<00:19:09.039><c> need</c><00:19:09.200><c> to</c><00:19:09.520><c> do</c><00:19:09.760><c> so</c><00:19:09.919><c> much</c><00:19:10.160><c> charade</c><00:19:11.039><c> to</c><00:19:11.280><c> get</c>
+don't need to do so much charade to get
+ 
+don't need to do so much charade to get
+a<00:19:11.520><c> good</c><00:19:11.679><c> output.</c><00:19:12.080><c> If</c><00:19:12.240><c> you're</c><00:19:12.559><c> skilled</c><00:19:13.200><c> a</c>
+a good output. If you're skilled a
+ 
+a good output. If you're skilled a
+skilled<00:19:13.760><c> driver</c><00:19:14.160><c> I</c><00:19:14.400><c> sometimes</c><00:19:14.720><c> even</c><00:19:14.960><c> say</c><00:19:15.840><c> uh</c>
+skilled driver I sometimes even say uh
+ 
+skilled driver I sometimes even say uh
+you<00:19:16.240><c> can</c><00:19:16.320><c> get</c><00:19:16.720><c> reasonably</c><00:19:17.120><c> good</c><00:19:17.280><c> output</c><00:19:17.600><c> with</c>
+you can get reasonably good output with
+ 
+you can get reasonably good output with
+any<00:19:18.000><c> tool</c><00:19:19.280><c> but</c><00:19:19.520><c> codex</c><00:19:20.000><c> is</c><00:19:20.240><c> just</c><00:19:21.360><c> is</c><00:19:21.600><c> just</c>
+any tool but codex is just is just
+ 
+any tool but codex is just is just
+really<00:19:22.320><c> brilliant.</c><00:19:22.799><c> It</c><00:19:23.039><c> is</c><00:19:23.200><c> incredibly</c><00:19:23.840><c> slow.</c>
+really brilliant. It is incredibly slow.
+ 
+really brilliant. It is incredibly slow.
+So<00:19:24.960><c> sometimes</c><00:19:25.280><c> I</c><00:19:25.440><c> use</c><00:19:25.600><c> like</c><00:19:25.760><c> 10</c><00:19:26.000><c> at</c><00:19:26.160><c> the</c><00:19:26.320><c> same</c>
+So sometimes I use like 10 at the same
+ 
+So sometimes I use like 10 at the same
+side<00:19:26.720><c> at</c><00:19:26.880><c> the</c><00:19:27.039><c> same</c><00:19:27.200><c> time</c><00:19:28.240><c> uh</c><00:19:28.559><c> like</c><00:19:29.280><c> maybe</c><00:19:29.520><c> six</c>
+side at the same time uh like maybe six
+ 
+side at the same time uh like maybe six
+on<00:19:30.000><c> that</c><00:19:30.160><c> screen</c><00:19:30.400><c> and</c><00:19:30.960><c> to</c><00:19:31.200><c> there</c><00:19:31.360><c> and</c><00:19:31.520><c> to</c><00:19:31.760><c> there</c>
+on that screen and to there and to there
+ 
+on that screen and to there and to there
+and<00:19:32.640><c> I</c><00:19:32.799><c> don't</c><00:19:32.960><c> like</c><00:19:33.840><c> this</c><00:19:34.000><c> is</c><00:19:34.160><c> already</c><00:19:34.400><c> a</c><00:19:34.640><c> lot</c>
+and I don't like this is already a lot
+ 
+and I don't like this is already a lot
+of<00:19:34.880><c> complexity</c><00:19:35.280><c> in</c><00:19:35.440><c> my</c><00:19:35.520><c> head</c><00:19:35.760><c> there's</c><00:19:35.919><c> a</c><00:19:36.080><c> lot</c>
+of complexity in my head there's a lot
+ 
+of complexity in my head there's a lot
+of<00:19:36.799><c> jumping</c><00:19:38.080><c> so</c><00:19:38.320><c> I</c><00:19:38.559><c> try</c><00:19:38.720><c> to</c><00:19:38.880><c> minimize</c><00:19:39.679><c> anything</c>
+of jumping so I try to minimize anything
+ 
+of jumping so I try to minimize anything
+else<00:19:40.240><c> that</c><00:19:40.480><c> is</c><00:19:40.640><c> complexity</c><00:19:41.600><c> so</c><00:19:42.080><c> in</c><00:19:42.320><c> my</c><00:19:42.480><c> head</c>
+else that is complexity so in my head
+ 
+else that is complexity so in my head
+main<00:19:43.280><c> is</c><00:19:43.440><c> always</c><00:19:43.679><c> shippable</c><00:19:44.559><c> I</c><00:19:44.799><c> just</c><00:19:44.960><c> have</c>
+main is always shippable I just have
+ 
+main is always shippable I just have
+multiple<00:19:45.600><c> copies</c><00:19:46.080><c> of</c><00:19:46.320><c> the</c><00:19:46.559><c> same</c><00:19:46.720><c> repository</c>
+multiple copies of the same repository
+ 
+multiple copies of the same repository
+that<00:19:48.880><c> all</c><00:19:49.039><c> are</c><00:19:49.200><c> on</c><00:19:49.440><c> main</c><00:19:49.760><c> so</c><00:19:49.919><c> I</c><00:19:50.080><c> don't</c><00:19:50.160><c> have</c><00:19:50.320><c> to</c>
+that all are on main so I don't have to
+ 
+that all are on main so I don't have to
+deal<00:19:50.640><c> with</c><00:19:51.039><c> how</c><00:19:51.200><c> do</c><00:19:51.360><c> I</c><00:19:51.440><c> name</c><00:19:51.679><c> that</c><00:19:52.000><c> branch</c><00:19:53.280><c> Um</c>
+deal with how do I name that branch Um
+ 
+deal with how do I name that branch Um
+there<00:19:54.799><c> could</c><00:19:54.960><c> be</c><00:19:55.120><c> like</c><00:19:55.280><c> conflicts</c><00:19:55.679><c> on</c><00:19:55.919><c> naming.</c>
+there could be like conflicts on naming.
+ 
+there could be like conflicts on naming.
+I<00:19:56.400><c> cannot</c><00:19:56.640><c> go</c><00:19:56.799><c> back.</c><00:19:57.200><c> It's</c><00:19:58.080><c> there</c><00:19:58.240><c> are</c><00:19:58.400><c> certain</c>
+I cannot go back. It's there are certain
+ 
+I cannot go back. It's there are certain
+restrictions<00:19:59.280><c> when</c><00:19:59.520><c> you</c><00:19:59.679><c> use</c><00:19:59.840><c> work</c><00:20:00.160><c> trees</c>
+restrictions when you use work trees
+ 
+restrictions when you use work trees
+that<00:20:01.520><c> I</c><00:20:01.760><c> don't</c><00:20:01.840><c> need</c><00:20:02.000><c> to</c><00:20:02.160><c> care</c><00:20:02.320><c> about</c><00:20:02.480><c> if</c><00:20:02.720><c> it's</c>
+that I don't need to care about if it's
+ 
+that I don't need to care about if it's
+copies.<00:20:04.000><c> I</c><00:20:04.240><c> don't</c><00:20:04.400><c> like</c><00:20:05.280><c> to</c><00:20:05.440><c> use</c><00:20:05.600><c> a</c><00:20:05.760><c> UI</c><00:20:06.240><c> because</c>
+copies. I don't like to use a UI because
+ 
+copies. I don't like to use a UI because
+that's<00:20:07.760><c> again</c><00:20:08.080><c> just</c><00:20:08.320><c> added</c><00:20:08.640><c> complexity.</c>
+that's again just added complexity.
+ 
+that's again just added complexity.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; Like<00:20:10.960><c> they're</c><00:20:11.280><c> simpler</c><00:20:11.679><c> and</c><00:20:11.919><c> less</c><00:20:12.160><c> friction</c><00:20:12.480><c> I</c>
+&gt;&gt; Like they're simpler and less friction I
+ 
+&gt;&gt; Like they're simpler and less friction I
+have.<00:20:12.799><c> All</c><00:20:12.880><c> I</c><00:20:13.039><c> care</c><00:20:13.200><c> about</c><00:20:13.360><c> is</c><00:20:13.600><c> like</c><00:20:14.320><c> syncing</c>
+have. All I care about is like syncing
+ 
+have. All I care about is like syncing
+and<00:20:15.360><c> text.</c>
+and text.
+ 
+and text.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; I<00:20:16.960><c> don't</c><00:20:17.200><c> necessarily</c><00:20:17.679><c> need</c><00:20:17.760><c> to</c><00:20:17.919><c> see</c><00:20:18.000><c> so</c><00:20:18.240><c> much</c>
+&gt;&gt; I don't necessarily need to see so much
+ 
+&gt;&gt; I don't necessarily need to see so much
+code.<00:20:18.640><c> I</c><00:20:18.799><c> I</c><00:20:19.039><c> mostly</c><00:20:19.360><c> see</c><00:20:19.440><c> it</c><00:20:19.600><c> like</c><00:20:19.840><c> flying</c><00:20:20.080><c> by.</c>
+code. I I mostly see it like flying by.
+ 
+code. I I mostly see it like flying by.
+Sometimes<00:20:21.280><c> there's</c><00:20:21.600><c> like</c><00:20:22.480><c> gnarly</c><00:20:22.960><c> stuff</c><00:20:23.039><c> that</c>
+Sometimes there's like gnarly stuff that
+ 
+Sometimes there's like gnarly stuff that
+I<00:20:23.360><c> want</c><00:20:23.520><c> to</c><00:20:23.600><c> like</c><00:20:23.760><c> take</c><00:20:23.919><c> a</c><00:20:24.080><c> look.</c><00:20:24.960><c> But</c><00:20:25.280><c> in</c><00:20:25.520><c> most</c>
+I want to like take a look. But in most
+ 
+I want to like take a look. But in most
+cases,<00:20:27.120><c> if</c><00:20:27.360><c> you</c><00:20:27.679><c> clearly</c><00:20:28.080><c> understand</c><00:20:28.400><c> the</c>
+cases, if you clearly understand the
+ 
+cases, if you clearly understand the
+design<00:20:28.960><c> and</c><00:20:29.200><c> think</c><00:20:29.360><c> it</c><00:20:29.520><c> through</c><00:20:29.679><c> and</c><00:20:29.840><c> discuss</c>
+design and think it through and discuss
+ 
+design and think it through and discuss
+it<00:20:30.240><c> with</c><00:20:30.400><c> your</c><00:20:30.559><c> with</c><00:20:30.720><c> your</c><00:20:30.880><c> agent,</c><00:20:32.080><c> it's</c><00:20:32.400><c> fine.</c>
+it with your with your agent, it's fine.
+ 
+it with your with your agent, it's fine.
+I'm<00:20:33.039><c> also</c><00:20:33.280><c> very</c><00:20:33.520><c> happy</c><00:20:33.760><c> that</c><00:20:35.039><c> I</c><00:20:35.280><c> didn't</c><00:20:35.440><c> even</c>
+I'm also very happy that I didn't even
+ 
+I'm also very happy that I didn't even
+build<00:20:35.760><c> an</c><00:20:35.919><c> MCP</c><00:20:36.400><c> support.</c><00:20:37.120><c> So,</c><00:20:37.280><c> Open</c><00:20:37.520><c> Claw</c><00:20:37.840><c> is</c>
+build an MCP support. So, Open Claw is
+ 
+build an MCP support. So, Open Claw is
+very<00:20:38.240><c> successful</c><00:20:39.039><c> and</c><00:20:39.280><c> there's</c><00:20:39.440><c> no</c><00:20:39.600><c> MCP</c>
+very successful and there's no MCP
+ 
+very successful and there's no MCP
+support<00:20:40.320><c> in</c><00:20:40.559><c> there.</c><00:20:41.200><c> With</c><00:20:41.360><c> a</c><00:20:41.600><c> small</c><00:20:41.760><c> asterisk,</c>
+support in there. With a small asterisk,
+ 
+support in there. With a small asterisk,
+I<00:20:42.640><c> built</c><00:20:42.880><c> a</c><00:20:43.039><c> skill</c><00:20:43.919><c> that</c><00:20:44.159><c> uses</c><00:20:44.559><c> makeporter,</c>
+I built a skill that uses makeporter,
+ 
+I built a skill that uses makeporter,
+which<00:20:45.600><c> is</c><00:20:45.760><c> one</c><00:20:45.919><c> of</c><00:20:46.080><c> my</c><00:20:46.240><c> tools</c><00:20:46.480><c> that</c><00:20:46.720><c> converts</c>
+which is one of my tools that converts
+ 
+which is one of my tools that converts
+MCPS<00:20:47.840><c> into</c><00:20:48.159><c> CLIs.</c><00:20:49.440><c> And</c><00:20:49.600><c> then</c><00:20:49.760><c> you</c><00:20:49.919><c> can</c><00:20:50.000><c> just</c>
+MCPS into CLIs. And then you can just
+ 
+MCPS into CLIs. And then you can just
+use<00:20:50.320><c> any</c><00:20:50.559><c> MCP</c><00:20:51.200><c> as</c><00:20:51.440><c> a</c><00:20:51.520><c> CLI.</c><00:20:52.640><c> Um,</c><00:20:54.000><c> but</c><00:20:54.320><c> I</c><00:20:54.799><c> totally</c>
+use any MCP as a CLI. Um, but I totally
+ 
+use any MCP as a CLI. Um, but I totally
+skip<00:20:55.600><c> the</c><00:20:55.840><c> whole</c><00:20:56.000><c> classical</c><00:20:57.200><c> MCP</c><00:20:57.760><c> crap.</c><00:20:58.559><c> So</c>
+skip the whole classical MCP crap. So
+ 
+skip the whole classical MCP crap. So
+you<00:20:58.960><c> because</c><00:20:59.120><c> you</c><00:20:59.280><c> don't</c><00:20:59.520><c> then</c><00:21:00.080><c> you</c><00:21:00.320><c> can</c>
+you because you don't then you can
+ 
+you because you don't then you can
+actually<00:21:01.120><c> if</c><00:21:01.440><c> you</c><00:21:01.679><c> need</c><00:21:01.840><c> to</c><00:21:02.159><c> you</c><00:21:02.320><c> can</c><00:21:02.480><c> use</c><00:21:02.640><c> MCPS</c>
+actually if you need to you can use MCPS
+ 
+actually if you need to you can use MCPS
+on<00:21:03.280><c> the</c><00:21:03.440><c> fly.</c><00:21:03.919><c> You</c><00:21:04.080><c> don't</c><00:21:04.240><c> have</c><00:21:04.320><c> to</c><00:21:04.480><c> restart</c>
+on the fly. You don't have to restart
+ 
+on the fly. You don't have to restart
+unlike<00:21:05.520><c> unlike</c><00:21:05.919><c> Codex</c><00:21:06.320><c> or</c><00:21:06.480><c> cloud</c><00:21:06.720><c> code</c><00:21:06.880><c> where</c>
+unlike unlike Codex or cloud code where
+ 
+unlike unlike Codex or cloud code where
+you<00:21:07.200><c> actually</c><00:21:07.360><c> have</c><00:21:07.520><c> to</c><00:21:07.600><c> restart</c><00:21:08.000><c> the</c><00:21:08.240><c> whole</c>
+you actually have to restart the whole
+ 
+you actually have to restart the whole
+thing.<00:21:09.360><c> I</c><00:21:09.600><c> think</c><00:21:09.679><c> it's</c><00:21:09.840><c> way</c><00:21:10.080><c> more</c><00:21:10.240><c> egent</c><00:21:10.720><c> and</c>
+thing. I think it's way more egent and
+ 
+thing. I think it's way more egent and
+also<00:21:11.280><c> scales</c><00:21:11.679><c> way</c><00:21:11.919><c> better.</c><00:21:12.400><c> Now</c><00:21:12.640><c> you</c><00:21:12.799><c> see</c>
+also scales way better. Now you see
+ 
+also scales way better. Now you see
+entropic<00:21:13.600><c> they</c><00:21:13.760><c> do</c><00:21:15.039><c> they</c><00:21:15.280><c> built</c><00:21:15.520><c> like</c><00:21:15.679><c> a</c><00:21:15.919><c> tool</c>
+entropic they do they built like a tool
+ 
+entropic they do they built like a tool
+called<00:21:16.799><c> search</c><00:21:17.280><c> feature</c><00:21:18.000><c> like</c><00:21:18.320><c> something</c>
+called search feature like something
+ 
+called search feature like something
+super<00:21:19.120><c> custom</c><00:21:19.520><c> for</c><00:21:19.760><c> MCPS</c><00:21:21.120><c> that</c><00:21:21.360><c> was</c><00:21:21.520><c> like</c><00:21:21.679><c> in</c>
+super custom for MCPS that was like in
+ 
+super custom for MCPS that was like in
+beta<00:21:22.240><c> because</c><00:21:22.400><c> it's</c><00:21:22.720><c> like</c><00:21:23.280><c> so</c><00:21:23.520><c> gnarly.</c><00:21:24.960><c> No,</c>
+beta because it's like so gnarly. No,
+ 
+beta because it's like so gnarly. No,
+just<00:21:25.520><c> have</c><00:21:25.679><c> CLI</c><00:21:26.640><c> bot</c><00:21:27.120><c> really</c><00:21:27.440><c> is</c><00:21:27.679><c> good</c><00:21:27.760><c> at</c>
+just have CLI bot really is good at
+ 
+just have CLI bot really is good at
+Unix.<00:21:28.400><c> You</c><00:21:28.559><c> can</c><00:21:28.640><c> have</c><00:21:28.799><c> as</c><00:21:28.960><c> many</c><00:21:29.200><c> as</c><00:21:29.360><c> you</c><00:21:29.520><c> want</c>
+Unix. You can have as many as you want
+ 
+Unix. You can have as many as you want
+and<00:21:30.159><c> it</c><00:21:30.400><c> just</c><00:21:30.559><c> works.</c><00:21:31.280><c> So</c><00:21:31.600><c> like</c><00:21:31.760><c> I'm</c><00:21:31.919><c> very</c>
+and it just works. So like I'm very
+ 
+and it just works. So like I'm very
+happy<00:21:32.320><c> that</c><00:21:33.520><c> I</c><00:21:34.159><c> got</c><00:21:34.320><c> very</c><00:21:34.559><c> little</c><00:21:34.799><c> complaints</c>
+happy that I got very little complaints
+ 
+happy that I got very little complaints
+about<00:21:35.360><c> the</c><00:21:35.520><c> MCP</c><00:21:36.000><c> stuff.</c><00:21:36.320><c> It's</c><00:21:36.559><c> kind</c><00:21:36.720><c> of</c><00:21:36.799><c> back</c>
+about the MCP stuff. It's kind of back
+ 
+about the MCP stuff. It's kind of back
+to<00:21:37.440><c> you're</c><00:21:37.760><c> just</c><00:21:39.039><c> giving</c><00:21:39.840><c> it</c><00:21:40.159><c> the</c><00:21:40.400><c> same</c><00:21:40.640><c> tools</c>
+to you're just giving it the same tools
+ 
+to you're just giving it the same tools
+that<00:21:41.520><c> humans</c><00:21:42.000><c> liked</c><00:21:42.320><c> to</c><00:21:42.559><c> use.</c>
+that humans liked to use.
+ 
+that humans liked to use.
+&gt;&gt; Yeah.<00:21:44.080><c> Yeah.</c>
+&gt;&gt; Yeah. Yeah.
+ 
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; And<00:21:44.640><c> not</c><00:21:44.799><c> invented</c><00:21:45.360><c> stuff</c><00:21:45.600><c> for</c><00:21:46.080><c> for</c><00:21:46.320><c> bots,</c><00:21:46.640><c> per</c>
+&gt;&gt; And not invented stuff for for bots, per
+ 
+&gt;&gt; And not invented stuff for for bots, per
+se.
+se.
+ 
+se.
+&gt;&gt; Yeah.<00:21:47.360><c> Humans,</c><00:21:48.720><c> no</c><00:21:48.960><c> insane</c><00:21:49.440><c> human</c><00:21:49.760><c> tries</c><00:21:50.000><c> to</c>
+&gt;&gt; Yeah. Humans, no insane human tries to
+ 
+&gt;&gt; Yeah. Humans, no insane human tries to
+call<00:21:50.320><c> an</c><00:21:50.400><c> MCP</c><00:21:50.880><c> manually.</c>
+call an MCP manually.
+ 
+call an MCP manually.
+&gt;&gt; Yeah.<00:21:51.600><c> You</c><00:21:51.679><c> just</c><00:21:51.760><c> want</c><00:21:51.840><c> to</c><00:21:51.919><c> use</c><00:21:52.080><c> CLIs.</c>
+&gt;&gt; Yeah. You just want to use CLIs.
+ 
+&gt;&gt; Yeah. You just want to use CLIs.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah.
+ 
+&gt;&gt; Yeah.
+&gt;&gt; That's<00:21:53.760><c> the</c><00:21:53.919><c> future.</c>
+&gt;&gt; That's the future.
+ 
+&gt;&gt; That's the future.
+&gt;&gt; I'm<00:21:54.640><c> here</c><00:21:54.799><c> for</c><00:21:54.960><c> it.</c><00:21:55.440><c> Thank</c><00:21:55.520><c> you</c><00:21:55.679><c> so</c><00:21:55.840><c> much</c><00:21:55.919><c> for</c>
+&gt;&gt; I'm here for it. Thank you so much for
+ 
+&gt;&gt; I'm here for it. Thank you so much for
+making<00:21:56.240><c> the</c><00:21:56.480><c> time</c><00:21:56.799><c> uh</c><00:21:56.960><c> to</c><00:21:57.120><c> sit</c><00:21:57.440><c> down</c><00:21:57.679><c> chatting.</c>
+making the time uh to sit down chatting.
+ 
+making the time uh to sit down chatting.
+has<00:21:58.159><c> been</c><00:21:58.240><c> a</c><00:21:58.400><c> huge</c><00:21:58.559><c> inspiration,</c><00:21:59.120><c> too.</c><00:21:59.520><c> So,</c>
+has been a huge inspiration, too. So,
+ 
+has been a huge inspiration, too. So,
+like<00:21:59.840><c> when</c><00:22:00.000><c> we</c><00:22:00.080><c> were</c><00:22:00.240><c> texting,</c><00:22:00.640><c> you</c><00:22:00.720><c> know,</c>
+like when we were texting, you know,
+ 
+like when we were texting, you know,
+over<00:22:00.880><c> the</c><00:22:01.039><c> course</c><00:22:01.200><c> of</c><00:22:01.280><c> the</c><00:22:01.440><c> past</c><00:22:01.679><c> couple</c><00:22:01.919><c> years</c>
+over the course of the past couple years
+ 
+over the course of the past couple years
+and<00:22:02.480><c> I</c><00:22:02.720><c> saw</c><00:22:02.880><c> you</c><00:22:03.120><c> getting</c><00:22:03.360><c> back</c><00:22:03.520><c> into</c><00:22:03.760><c> the</c><00:22:04.000><c> game</c>
+and I saw you getting back into the game
+ 
+and I saw you getting back into the game
+and<00:22:04.640><c> I</c><00:22:04.799><c> was</c><00:22:04.960><c> like,</c>
+and I was like,
+ 
+and I was like,
+&gt;&gt; Peter,<00:22:06.240><c> like</c><00:22:06.880><c> what</c><00:22:07.039><c> you're</c><00:22:07.280><c> telling</c><00:22:07.440><c> me</c><00:22:07.679><c> like</c>
+&gt;&gt; Peter, like what you're telling me like
+ 
+&gt;&gt; Peter, like what you're telling me like
+chase<00:22:08.240><c> that</c><00:22:08.480><c> dragon</c><00:22:09.010><c> [laughter]</c><00:22:09.039><c> and</c><00:22:09.200><c> you</c>
+chase that dragon [laughter] and you
+ 
+chase that dragon [laughter] and you
+were<00:22:09.520><c> doing</c><00:22:09.679><c> like</c><00:22:09.760><c> the</c><00:22:09.919><c> weird</c><00:22:10.159><c> like</c><00:22:10.320><c> vibe</c>
+were doing like the weird like vibe
+ 
+were doing like the weird like vibe
+tunnel<00:22:10.960><c> thing,</c><00:22:11.440><c> etc.</c><00:22:11.760><c> Nobody</c><00:22:12.000><c> was</c><00:22:12.240><c> paying</c>
+tunnel thing, etc. Nobody was paying
+ 
+tunnel thing, etc. Nobody was paying
+attention<00:22:13.120><c> and</c><00:22:13.360><c> so</c><00:22:13.520><c> I'm</c><00:22:13.760><c> just</c><00:22:13.919><c> like</c><00:22:14.159><c> beyond,</c>
+attention and so I'm just like beyond,
+ 
+attention and so I'm just like beyond,
+you<00:22:14.960><c> know,</c><00:22:15.120><c> stoked</c><00:22:15.520><c> to</c><00:22:15.760><c> see,</c><00:22:16.080><c> you</c><00:22:16.240><c> know,</c>
+you know, stoked to see, you know,
+ 
+you know, stoked to see, you know,
+what's<00:22:16.559><c> happening</c><00:22:17.440><c> and</c><00:22:18.000><c> um</c><00:22:18.240><c> and</c><00:22:18.559><c> of</c><00:22:18.720><c> course</c>
+what's happening and um and of course
+ 
+what's happening and um and of course
+they<00:22:19.200><c> had</c><00:22:19.360><c> to</c><00:22:19.520><c> be</c><00:22:19.760><c> sort</c><00:22:19.919><c> of</c><00:22:20.000><c> like</c><00:22:20.159><c> a</c><00:22:20.320><c> loner</c><00:22:20.720><c> from</c>
+they had to be sort of like a loner from
+ 
+they had to be sort of like a loner from
+some<00:22:21.120><c> like</c><00:22:21.280><c> tiny</c><00:22:21.600><c> country</c><00:22:21.840><c> like</c><00:22:22.080><c> far</c><00:22:22.240><c> away</c>
+some like tiny country like far away
+ 
+some like tiny country like far away
+from<00:22:22.480><c> Silicon</c><00:22:22.880><c> Valley.</c><00:22:23.280><c> So,</c><00:22:23.360><c> like,</c><00:22:23.600><c> you</c><00:22:23.760><c> know,</c>
+from Silicon Valley. So, like, you know,
+ 
+from Silicon Valley. So, like, you know,
+bring<00:22:24.159><c> all</c><00:22:24.400><c> of</c><00:22:24.559><c> this</c><00:22:24.799><c> upon</c><00:22:25.039><c> us.</c><00:22:25.280><c> Um,</c><00:22:25.600><c> so</c><00:22:25.760><c> huge</c>
+bring all of this upon us. Um, so huge
+ 
+bring all of this upon us. Um, so huge
+inspiration.
+inspiration.
+ 
+inspiration.
+&gt;&gt; I'm<00:22:26.880><c> here</c><00:22:27.039><c> for</c><00:22:27.200><c> it.</c><00:22:27.520><c> Thank</c><00:22:27.679><c> you.</c>
+&gt;&gt; I'm here for it. Thank you.
+ 
+&gt;&gt; I'm here for it. Thank you.
+&gt;&gt; Awesome.<00:22:28.400><c> Thanks,</c><00:22:28.720><c> Peter.</c>
+&gt;&gt; Awesome. Thanks, Peter.
+ 
+&gt;&gt; Awesome. Thanks, Peter.
+[music]
